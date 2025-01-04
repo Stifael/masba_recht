@@ -1,5 +1,5 @@
 ---
-title: "zgb-or"
+title: "haftung"
 output: pdf_document
 ---
 
@@ -12,6 +12,8 @@ output: pdf_document
   - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
 3. **Werkeigentümerhaftung**
   - a. [Art. 58 OR](TODO)
+
+---
 
 # Art. 41 OR Haftung für unerlaubte Handlung
 
