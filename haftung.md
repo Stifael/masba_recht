@@ -6,10 +6,14 @@ output: pdf_document
 # Table Of Content
 
 1.  **Allgemeine Verschuldenshaftung**
-  - a. [Art. 41 OR](#art-41-or-haftung-fuer-unerlaubte-handlung)
+  - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-fuer-unerlaubte-handlung)
   - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
+2. **Geschäftsherrenhaftung**
+  - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
+3. **Werkeigentümerhaftung**
+  - a. [Art. 58 OR](TODO)
 
-# Art. 41 OR Haftung fuer unerlaubte Handlung
+# Art. 41 OR Haftung für unerlaubte Handlung
 
 ## **Rechtsnorm**
 **Art. 41 OR**  
@@ -34,7 +38,7 @@ Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetz
 
 Rechtfertigungsgründe können sein:
 - **Einwilligung des Geschädigten.**
-- **Notwehr oder Notstand.**:  Art. 52. Abs. 1/2
+- **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
 
 ---
 
@@ -82,7 +86,7 @@ Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein al
 
 ## **Schadensersatzbemessung**
 - **Reduktionsgründe**: herabsetung des Schadenersatzanspruches
-  - Leichtes Verschulden [Art. 43 Abs. 1 OR](#art-43-or-bemessung-des-schadenersatzes-absatz-1)
+  - Leichtes Verschulden [Art. 43 Abs. 1 OR](#art-43-or-abs-1-bemessung-des-schadenersatzes)
   - Selbstverschulden [Art. 44 OR](#art-44-or-reduktion-der-ersatzpflicht)
   - weitere Reduktionsgründe
     - Konstitutionelle Prädisposition
@@ -412,3 +416,127 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 ---
 
+# Art. 52 OR Haftung bei Notwehr, Notstand und Selbsthilfe
+
+## **Rechtsnorm**
+**Art. 52 OR**  
+1. Wer in berechtigter Notwehr einen Angriff abwehrt, hat den Schaden, den er dabei dem Angreifer in seiner Person oder in seinem Vermögen zufügt, nicht zu ersetzen.  
+2. Wer in fremdes Vermögen eingreift, um drohenden Schaden oder Gefahr von sich oder einem andern abzuwenden, hat nach Ermessen des Richters Schadenersatz zu leisten.  
+3. Wer zum Zwecke der Sicherung eines berechtigten Anspruches sich selbst Schutz verschafft, ist dann nicht ersatzpflichtig, wenn nach den gegebenen Umständen amtliche Hilfe nicht rechtzeitig erlangt und nur durch Selbsthilfe eine Vereitelung des Anspruches oder eine wesentliche Erschwerung seiner Geltendmachung verhindert werden konnte.
+
+---
+
+## **Tatbestände von Art. 52 OR**
+
+### **1. Notwehr (Abs. 1)**
+- **Definition**: Notwehr liegt vor, wenn eine Person einen **rechtswidrigen und unmittelbaren Angriff** auf eigene oder fremde Rechtsgüter abwehrt.
+- **Rechtsfolge**: Keine Ersatzpflicht für Schäden, die dem Angreifer zugefügt werden.
+- **Voraussetzungen**:
+  1. **Rechtswidriger Angriff**: Der Angriff muss unrechtmäßig und gegenwärtig sein.
+  2. **Erforderlichkeit und Verhältnismäßigkeit**: Die Abwehrhandlung darf nicht unverhältnismäßig sein.
+- **Beispiel**: Eine Person stößt einen Angreifer weg, wodurch dieser stürzt und sein Handy zerstört wird.
+
+---
+
+### **2. Notstand (Abs. 2)**
+- **Definition**: Notstand liegt vor, wenn jemand in das Vermögen eines Dritten eingreift, um drohenden Schaden oder eine Gefahr von sich oder einer anderen Person abzuwenden.
+- **Rechtsfolge**: Der Richter kann die Ersatzpflicht nach **seinem Ermessen** festlegen.
+- **Voraussetzungen**:
+  1. Es besteht eine **unmittelbare Gefahr** für ein Rechtsgut.
+  2. Der Eingriff in das fremde Vermögen ist zur **Abwendung der Gefahr notwendig**.
+  3. Die Handlung muss **verhältnismäßig** sein.
+- **Beispiel**: Eine Person nutzt ohne Erlaubnis einen Feuerlöscher des Nachbarn, um ein Feuer zu löschen, und beschädigt dabei den Löscher.
+
+---
+
+### **3. Selbsthilfe (Abs. 3)**
+- **Definition**: Selbsthilfe bedeutet, dass jemand eigenmächtig einen berechtigten Anspruch sichert, wenn keine amtliche Hilfe rechtzeitig erreichbar ist.
+- **Rechtsfolge**: Keine Ersatzpflicht, wenn Selbsthilfe notwendig war, um die Vereitelung oder wesentliche Erschwerung der Anspruchsdurchsetzung zu verhindern.
+- **Voraussetzungen**:
+  1. Es besteht ein **berechtigter Anspruch**.
+  2. **Amtliche Hilfe** kann nicht rechtzeitig erlangt werden.
+  3. Die Selbsthilfehandlung ist zur **Sicherung des Anspruchs notwendig**.
+- **Beispiel**: Eine Person holt sich ihr gestohlenes Fahrrad zurück und beschädigt dabei versehentlich einen Teil der Fahrradkette.
+
+---
+
+# Art. 55 OR Haftung des Geschäftsherrn
+
+## **Rechtsnorm**
+**Art. 55 OR**  
+1. Der Geschäftsherr haftet für den Schaden, den seine Arbeitnehmer oder andere Hilfspersonen in Ausübung ihrer dienstlichen oder geschäftlichen Verrichtungen verursacht haben, wenn er nicht nachweist, dass er alle nach den Umständen gebotene Sorgfalt angewendet hat, um einen Schaden dieser Art zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre.  
+2. Der Geschäftsherr kann auf denjenigen, der den Schaden gestiftet hat, insoweit Rückgriff nehmen, als dieser selbst schadenersatzpflichtig ist.
+
+---
+
+## **Definition: Hilfsperson**
+Eine **Hilfsperson** ist jemand, der eine Geschäftsbesorgung für den Geschäftsherrn ausführt und zu diesem in einem **Subordinationsverhältnis** (Unterordnungsverhältnis) steht.  
+### **Merkmale einer Hilfsperson:**
+- **Subordinationsverhältnis**: Die Hilfsperson ist in die Weisungen und Kontrolle des Geschäftsherrn eingebunden.
+- **Vertragliche Grundlage**: Das Subordinationsverhältnis entsteht typischerweise aus einem Arbeitsvertrag, kann aber auch aus anderen Verträgen (z. B. Auftrag) oder familienrechtlichen Beziehungen resultieren.
+- **Beispiele für Hilfspersonen**:
+  - Angestellte und Arbeiter.
+  - Praktikanten oder Aushilfskräfte.
+- **Nicht als Hilfspersonen gelten**:
+  - **Selbständig Erwerbende**: Personen, die unabhängig ihre Dienstleistungen anbieten.
+  - **Organe juristischer Personen**: Diese haften direkt nach den Vorschriften über die Organhaftung (Art. 55 Abs. 1 ZGB, Art. 716 OR).
+
+---
+
+## **Tatbestände von Art. 55 OR**
+
+### **1. Schaden**
+Ein Schaden ist eine unfreiwillige Vermögensverminderung. Diese kann sein:
+- **Personenschaden**: Zum Beispiel Heilungskosten, Erwerbsausfall, Schmerzensgeld.
+- **Sachschaden**: Beschädigung, Zerstörung oder Verlust von Eigentum.
+
+---
+
+### **2. Widerrechtlichkeit**
+Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetzliche Pflicht verstößt. Dies geschieht auf zwei Arten:
+1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit.
+2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
+
+Rechtfertigungsgründe können sein:
+- **Einwilligung des Geschädigten.**
+- **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
+
+---
+
+### **3. Kausalzusammenhang**
+Die Handlung muss ursächlich für den Schaden sein:
+- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden.
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung geeignet, einen solchen Schaden herbeizuführen. 
+  - Auschluss:
+    - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
+    - Grobes Selbstverschulden
+    - Grobes Drittverschulden (Arzt operiert und dient als Drittperson)
+  
+---
+
+### **4. Fehlverhalten einer Hilfsperson**
+- Die schädigende Handlung muss im Rahmen der **geschäftlichen oder dienstlichen Tätigkeit** der Hilfsperson erfolgen.
+
+
+---
+### **5. in Ausübung dienstlicher oder geschäftlicher Verrichtung**
+- funktioneller Zusammenhang zwischen der Tätigkeit und dem Schaden besteht. Es reicht nicht, dass der Schaden nur bei Gelegenheit der Arbeit entstanden ist.
+
+
+---
+### **6. Geschäftsherreneigenschaft**
+- Ein Geschäftsherr ist jemand, der eine Geschäftsbesorgung von einer anderen Person ausführen lässt, die zu ihm in einem Subordinationsverhältnis (Unterordnungsverhältnis) steht.
+- Geschäftsherr kann eine natürliche Person (z. B. Unternehmer) oder eine juristische Person (z. B. ein Unternehmen) sein.  Ein Betriebsinhaber ist Geschäftsherr, nicht automatisch der direkte Vorgesetzte.
+---
+
+### **7. Misslingen des Sorgfaltsbeweises**
+- Der Geschäftsherr kann sich entlasten, indem er nachweist, dass er:
+  1. **alle nach den Umständen gebotene Sorgfalt** angewendet hat, um den Schaden zu verhindern (z. B. durch Auswahl, Schulung (Instruktion), Aufsicht (überwachung), oder
+  2. der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre.
+  3. **Organisationshaftung**: zweckmässige Arbeitsorganisation und nötigenfalls Endkontrolle der Produkte, wenn SChädigung Dritter verhindert werden kann.
+    - Zweckmässige Organisation der Arbeit
+    - Ausrüstung mit tauglichem Werkzeug und Material
+- Kann der Geschäftsherr diesen Nachweis nicht erbringen, haftet er.
+
+
+---
