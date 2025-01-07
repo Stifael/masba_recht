@@ -6,7 +6,7 @@ output: pdf_document
 # Table Of Content
 
 1.  **Allgemeine Verschuldenshaftung**
-    - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-fuer-unerlaubte-handlung)
+    - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-für-unerlaubte-handlung)
     - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
 2. **Geschäftsherrenhaftung**
     - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
