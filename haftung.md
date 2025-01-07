@@ -6,15 +6,15 @@ output: pdf_document
 # Table Of Content
 
 1.  **Allgemeine Verschuldenshaftung**
-  - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-fuer-unerlaubte-handlung)
-  - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
+    - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-fuer-unerlaubte-handlung)
+    - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
 2. **Geschäftsherrenhaftung**
-  - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
+    - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
 3. **Werkeigentümerhaftung**
-  - a. [Art. 58 OR](TODO)
+    - a. [Art. 58 OR](TODO)
 
 ---
-
+---
 # Art. 41 OR Haftung für unerlaubte Handlung
 
 ## **Rechtsnorm**
@@ -79,7 +79,7 @@ Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein al
 
 
 ---
-
+---
 # Schadenersatz und Genugtuung
 ## **Schadensberechnung**
 - **Differenztheorie**: Hypothetischer Vermögensstand - Gegenwärtiger Vermögensstand
@@ -111,8 +111,7 @@ Bemessung durch Richter
   - Angehörige könnten Anspruch auf Genugtuun haben bei Körpervelertzung
 
 ---
-
-
+---
 # Art. 54 OR Haftung urteilsunfähiger Personen
 
 ## **Rechtsnorm**
@@ -149,7 +148,7 @@ Bemessung durch Richter
 - **Beispiel**: Eine Person verursacht in einem alkoholbedingten Rauschzustand einen Verkehrsunfall.
 
 ---
-
+---
 # Art. 16 ZGB Urteilsfähigkeit
 
 ## **Rechtsnorm**
@@ -173,7 +172,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 4. **Rausch oder ähnliche Zustände**: Vorübergehende Beeinträchtigung durch Alkohol, Drogen oder ähnliche Einflüsse.
 
 ---
-
+---
 # Art. 46 OR Schadenersatz bei Körperverletzung
 
 ## **Rechtsnorm**
@@ -214,8 +213,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 - **Zweck**: Anpassung des Schadenersatzes an die tatsächlichen Spätfolgen, falls diese sich erst später zeigen.
 
 ---
-
-
+---
 # Art. 45 OR Schadenersatz bei Tötung eines Menschen
 
 ## **Rechtsnorm**
@@ -257,7 +255,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 - Der Ersatz umfasst den finanziellen Unterhalt, den die versorgungsberechtigte Person aufgrund der Tötung verloren hat.
 
 ---
-
+---
 # Art. 43 OR Abs 1 Bemessung des Schadenersatzes
 
 ## **Rechtsnorm**
@@ -286,6 +284,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
      - Grad des Verschuldens: Fahrlässigkeit oder Absicht.
      - Mitverschulden des Geschädigten: Der Richter kann den Ersatzanspruch kürzen, wenn der Geschädigte zur Entstehung oder Verschlimmerung des Schadens beigetragen hat.
 
+---
 ---
 # Art. 44 OR Reduktion der Ersatzpflicht
 
@@ -329,7 +328,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 
 
 ---
-
+---
 # Art. 47 OR Genugtuung bei Tötung oder Körperverletzung
 
 ## **Rechtsnorm**
@@ -371,7 +370,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 - **Beispiel**: Bei der Tötung eines nahen Angehörigen wird dem Ehepartner oder den Kindern eine höhere Genugtuung zugesprochen als entfernten Verwandten.
 
 ---
-
+---
 # Art. 49 OR Genugtuung bei Persönlichkeitsverletzung
 
 ## **Rechtsnorm**
@@ -417,7 +416,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - **Entschuldigung** oder Widerruf der falschen Behauptung.
 
 ---
-
+---
 # Art. 52 OR Haftung bei Notwehr, Notstand und Selbsthilfe
 
 ## **Rechtsnorm**
@@ -461,7 +460,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 - **Beispiel**: Eine Person holt sich ihr gestohlenes Fahrrad zurück und beschädigt dabei versehentlich einen Teil der Fahrradkette.
 
 ---
-
+---
 # Art. 55 OR Haftung des Geschäftsherrn
 
 ## **Rechtsnorm**
