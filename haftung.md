@@ -106,9 +106,9 @@ Bemessung durch Richter
   - Verminderung der Lebensfreude
 
 - **Tötung und Körperverletzung**: [Art. 47 OR](#art-47-or-genugtuung-bei-tötung-oder-körperverletzung)
-  - Angehörige haben gemäss Art. 47 OR Anspruch auf Genugttuung bei Tötung
+  - Angehörige haben gemäss Art. 47 OR Anspruch auf Genugtuung bei Tötung
 - **Schwere Persönlichkeitsverletzung**: [Art. 49 OR](#art-49-or-genugtuung-bei-persönlichkeitsverletzung)
-  - Angehörige könnten Anspruch auf Genugtuun haben bei Körpervelertzung
+  - Angehörige könnten Anspruch auf Genugtuung haben bei Körpervelertzung
 
 ---
 ---
