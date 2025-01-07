@@ -643,7 +643,7 @@ A verpfändet seinen Schmuck für ein Darlehen. Bei Nichtzahlung darf der Gläub
 
 ## **Tatbestände von Art. 884 ZGB**
 
-### ***1. Akzessorietätsprinzip**
+### **1. Akzessorietätsprinzip**
 Bestand einer zu sichernen Forderung: [Akzessorietätsprinzip](#akzessorietätsprinzip)
 
 ### **2. Pfandvertrag**
