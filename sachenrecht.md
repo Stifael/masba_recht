@@ -1,9 +1,3 @@
-
-title: "sachenrecht"
-output: pdf_document
-
-
-
 # Table Of Content
 
 1. **Besitz**
