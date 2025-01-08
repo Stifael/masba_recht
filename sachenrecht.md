@@ -44,7 +44,7 @@ output: pdf_document
     - **Prinzipien**
         - I. [Akzessorietätsprinzip](#akzessorietätsprinzip)
         - II. [Verbot der Verfallklausel](#verbot-der-verfallklausel)
-    - **Farhnispfandsrecht**
+    - **Fahrnispfandsrecht**
         - I. [Art. 884 ZGB Fahrnispfandrecht](#art-884-zgb-fahrnispfandrecht)
         - II. [Art. 891 Abs. 1 ZGB Verwertungsrecht](#art-891-abs-1-zgb-verwertungsrecht-des-pfandgläubigers)
         - III. [Art. 889 Abs. 2 ZGB Zurückbehaltungsrecht](#art-889-zgb-herausgabepflicht-des-pfandgläubigers) 

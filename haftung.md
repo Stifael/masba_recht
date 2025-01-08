@@ -87,7 +87,7 @@ Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein al
   - Tötung [Art. 45 OR](#art-45-or-schadenersatz-bei-tötung-eines-menschen)
 
 ## **Schadensersatzbemessung**
-- **Reduktionsgründe**: herabsetung des Schadenersatzanspruches
+- **Reduktionsgründe**: Herabsetzung des Schadenersatzanspruches
   - Leichtes Verschulden [Art. 43 Abs. 1 OR](#art-43-or-abs-1-bemessung-des-schadenersatzes)
   - Selbstverschulden [Art. 44 OR](#art-44-or-reduktion-der-ersatzpflicht)
   - weitere Reduktionsgründe
