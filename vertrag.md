@@ -9,13 +9,10 @@
     - a. [Art. 7 OR Abs 1 Antrag ohne Verbindlichkeit](#art-7-or-antrag-ohne-verbindlichkeit)
     - b. [Art. 7 OR Abs 2 Versendung von Tarifen, Preislisten...](#art-7-or-antrag-ohne-verbindlichkeit)
     - c. [Art. 7 OR Abs 3 Auslage von Waren](#art-7-or-antrag-ohne-verbindlichkeit)
-    - d. [Art. 6 OR Schillschweigende Annahme](#art-6-or-vertragsschluss-durch-schweigen)
+    - d. [Art. 6 OR Stillschweigende Annahme](#art-6-or-vertragsschluss-durch-schweigen)
 3. **Vertragsmängel**
     - a. **Nichtigkeitsgründe**
         - I.[Formmängel](#nichtigkeitsgründe-formmangel)
-    
-
-
 
 
 ---
