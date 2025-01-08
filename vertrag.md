@@ -17,6 +17,7 @@
 
 
 
+
 ---
 ---
 # Art. 1 OR Zustandekommen eines Vertrages
@@ -26,7 +27,7 @@
 1. Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.  
 2. Sie kann eine ausdrückliche oder stillschweigende sein.
 
----
+
 
 ## **Tatbestände von Art. 1 OR**
 
@@ -36,12 +37,13 @@
   1. Den **Vertragsinhalt** (z. B. Gegenstand, Preis).  
   2. Den **Bindungswillen** (d. h., die Parteien wollen rechtlich gebunden sein).
 
----
+
 
 ### **2. Form der Willensäusserung (Abs. 2)**  
 - Die Willensäusserung kann entweder:  
   - **Ausdrücklich**: Durch klare mündliche oder schriftliche Erklärung (z. B. „Ich kaufe dein Auto für 10'000 CHF“).  
   - **Stillschweigend**: Durch konkludentes Verhalten (z. B. der Kunde legt ein Produkt auf das Kassenband und bezahlt).
+
 
 
 ---
@@ -53,7 +55,7 @@
 1. Bei der Beurteilung eines Vertrages sowohl nach Form als nach Inhalt ist der übereinstimmende wirkliche Wille und nicht die unrichtige Bezeichnung oder Ausdrucksweise zu beachten, die von den Parteien aus Irrtum oder in der Absicht gebraucht wird, die wahre Beschaffenheit des Vertrages zu verbergen.  
 2. Dem Dritten, der die Forderung im Vertrauen auf ein schriftliches Schuldbekenntnis erworben hat, kann der Schuldner die Einrede der Simulation nicht entgegensetzen.
 
----
+
 
 ## **Tatbestände von Art. 18 OR**
 
@@ -63,20 +65,21 @@
 - **Beispiel:**  
   - A und B schließen einen Kaufvertrag ab, bezeichnen ihn aber fälschlicherweise als "Schenkungsvertrag". Der Vertrag wird als Kaufvertrag behandelt, wenn dies dem tatsächlichen Willen der Parteien entspricht.
 
----
+
 
 ### **2. Simulation (Abs. 1)**  
 - Bei einer **Simulation** täuschen die Parteien nach außen einen Vertrag vor, der in Wirklichkeit gar nicht oder mit anderem Inhalt existiert. Entscheidend ist, was sie tatsächlich vereinbart haben.  
 - **Beispiel:**  
   - A und B schließen scheinbar einen Mietvertrag, um C zu täuschen. Tatsächlich ist der Vertrag ein Kaufvertrag.
 
----
+
 
 ### **3. Schutz gutgläubiger Dritter (Abs. 2)**  
 - Ein Dritter, der im Vertrauen auf ein **schriftliches Schuldbekenntnis** eine Forderung erwirbt, ist geschützt.  
 - Der Schuldner kann dem Dritten nicht entgegenhalten, dass das Schuldbekenntnis nur zum Schein ausgestellt wurde.  
 - **Beispiel:**  
   - A stellt B eine Schuldanerkennung aus, um den Schein eines Darlehens zu erwecken. C erwirbt diese Forderung in gutem Glauben. A kann sich gegenüber C nicht auf Simulation berufen.
+
 
 ---
 ---
@@ -86,10 +89,12 @@ Der normative Konsens beschreibt im Vertragsrecht das Prinzip, dass ein Vertrag 
 
 Siehe auch [Vertrauensschutz](#vertrauensschutz)
 
+
 ---
 ---
 # Vertrauensschutz
 Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen darf, dass Erklärungen und Handlungen der anderen Partei verbindlich sind, sofern sie nach den Umständen als solche erscheinen. Das Vertrauensprinzip schützt insbesondere den gutgläubigen Empfänger vor unerwarteten Rücknahmen oder Änderungen einer Willenserklärung.
+
 
 ---
 ---
@@ -100,7 +105,7 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 1. Jedermann hat in der Ausübung seiner Rechte und in der Erfüllung seiner Pflichten nach Treu und Glauben zu handeln.  
 2. Der offenbare Missbrauch eines Rechtes findet keinen Rechtsschutz.
 
----
+
 
 ## **Tatbestände von Art. 2 ZGB**
 
@@ -110,13 +115,14 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 - **Beispiel:**  
   - Ein Käufer darf nach Vertragsschluss nicht ohne Grund darauf bestehen, dass die Ware auf einmal kostenlos geliefert wird, wenn dies im Vertrag ausgeschlossen wurde.
 
----
+
 
 ### **2. Verbot des Rechtsmissbrauchs (Abs. 2)**  
 - Der Missbrauch eines Rechts liegt vor, wenn jemand ein Recht nur dazu einsetzt, um einem anderen zu schaden oder ihn zu benachteiligen, ohne legitimen Nutzen daraus zu ziehen.  
 - Solch ein **offenkundiger Rechtsmissbrauch** wird rechtlich nicht geschützt.  
 - **Beispiel:**  
   - A blockiert absichtlich die Zufahrt seines Grundstücks, um seinem Nachbarn B das Einfahren zu erschweren, obwohl er selbst keinen Vorteil davon hat.
+
 
 ---
 ---
@@ -128,7 +134,7 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 2. Kommt über die vorbehaltenen Nebenpunkte eine Vereinbarung nicht zustande, so hat der Richter über diese nach der Natur des Geschäftes zu entscheiden.  
 3. Vorbehalten bleiben die Bestimmungen über die Form der Verträge.
 
----
+
 
 ## **Tatbestände von Art. 2 OR**
 
@@ -138,7 +144,7 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 - **Beispiel:**  
   - A und B einigen sich über den Kauf eines Autos für 20'000 CHF. Die Frage der genauen Übergabezeit bleibt offen. Der Vertrag bleibt trotzdem gültig.
 
----
+
 
 ### **2. Entscheidung über Nebenpunkte durch den Richter (Abs. 2)**  
 - Falls die Parteien sich nicht über die vorbehaltenen Nebenpunkte einigen können, entscheidet der Richter unter Berücksichtigung der **Natur des Geschäftes**.  
@@ -146,12 +152,13 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 - **Beispiel:**  
   - A und B streiten darüber, ob das Auto geliefert oder abgeholt werden muss. Der Richter entscheidet, dass B als Käufer das Auto abholen muss, weil dies im Autohandel üblich ist.
 
----
+
 
 ### **3. Formvorschriften bleiben vorbehalten (Abs. 3)**  
 - Trotz Einigung über wesentliche und Nebenpunkte bleibt der Vertrag nur verbindlich, wenn die **gesetzlich vorgeschriebene Form** eingehalten wurde (falls eine solche besteht).  
 - **Beispiel:**  
   - Für Schenkungen von Grundstücken ist eine **öffentliche Beurkundung** notwendig. Ein mündlicher Vertrag bleibt daher unverbindlich, auch wenn alle Punkte geklärt wurden.
+
 
 ---
 ---
@@ -163,7 +170,7 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 2. Die Versendung von Tarifen, Preislisten u. dgl. bedeutet an sich keinen Antrag.  
 3. Dagegen gilt die Auslage von Waren mit Angabe des Preises in der Regel als Antrag.
 
----
+
 
 ## **Tatbestände von Art. 7 OR**
 
@@ -174,19 +181,20 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 - **Beispiel:**  
   - Ein Angebotsschreiben mit dem Zusatz „Preis unverbindlich“ ist kein verbindlicher Antrag.
 
----
+
 
 ### **2. Versendung von Tarifen und Preislisten (Abs. 2)**  
 - Die Versendung von **Preislisten, Tarifen, Katalogen** usw. ist in der Regel nur eine **Aufforderung zur Offertstellung** und kein verbindlicher Antrag.  
 - **Beispiel:**  
   - Ein Onlineshop zeigt eine Preisliste für Smartphones – dies ist in der Regel noch kein verbindliches Angebot, sondern eine Einladung zur Abgabe einer Bestellung.
 
----
+
 
 ### **3. Auslage von Waren mit Preisangabe (Abs. 3)**  
 - Die **Auslage von Waren** mit Preisschildern gilt grundsätzlich als **verbindlicher Antrag**.  
 - **Beispiel:**  
   - Ein Supermarkt stellt Warenregale mit Preisschildern aus – dies gilt als Angebot zum Kauf. Kunden können die Ware zu dem angegebenen Preis erwerben.
+
 
 ---
 ---
@@ -196,7 +204,7 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 **Art. 6 OR**  
 Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine ausdrückliche Annahme nicht zu erwarten, so gilt der Vertrag als abgeschlossen, wenn der Antrag nicht binnen angemessener Frist abgelehnt wird.
 
----
+
 
 ## **Tatbestände von Art. 6 OR**
 
@@ -205,7 +213,7 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - **Beispiel:**  
   - Ein regelmäßiger Liefervertrag: Der Kunde erhält monatlich die Ware und muss nicht jedes Mal den Vertrag ausdrücklich bestätigen. Das Ausbleiben einer Ablehnung wird als Zustimmung gewertet.
 
----
+
 
 ### **2. Umstände des Einzelfalls**  
 - Die Umstände müssen erkennen lassen, dass eine **ausdrückliche Annahme nicht zu erwarten** ist.  
@@ -213,13 +221,14 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - **Beispiel:**  
   - Ein Vermieter schickt dem Mieter einen Vorschlag zur Verlängerung des Mietvertrags. Der Mieter schweigt, wohnt jedoch weiterhin in der Wohnung. Das Schweigen gilt als Annahme des neuen Vertrags.
 
----
+
 
 ### **3. Angemessene Frist zur Ablehnung**  
 - Der Vertrag gilt nur dann als abgeschlossen, wenn der Antrag **innerhalb einer angemessenen Frist** nicht abgelehnt wird.  
 - Die Frist richtet sich nach der Art des Geschäfts und den üblichen Gepflogenheiten (z. B. bei schnell verderblichen Waren kürzere Fristen).  
 - **Beispiel:**  
   - Ein Weinhändler erhält ein Angebot zur Lieferung einer großen Bestellung und lehnt es nicht ab. Nach Ablauf einer angemessenen Frist darf der Anbieter davon ausgehen, dass der Händler das Angebot annimmt.
+
 
 ---
 ---
@@ -238,12 +247,8 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
     - [Art. 16 OR Formvorbehalt und dessen Wirkung](#art-16-or-formvorbehalt-und-dessen-wirkung)
 
 
-
-
-
-
 ---
-
+---
 # Art. 11 OR Formvorschriften für Verträge
 
 ## **Rechtsnorm**  
@@ -251,7 +256,7 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
 1. Verträge bedürfen zu ihrer Gültigkeit nur dann einer besonderen Form, wenn das Gesetz eine solche vorschreibt.  
 2. Ist über Bedeutung und Wirkung einer gesetzlich vorgeschriebenen Form nicht etwas anderes bestimmt, so hängt von deren Beobachtung die Gültigkeit des Vertrages ab.
 
----
+
 
 ## **Tatbestände von Art. 11 OR**
 
@@ -260,7 +265,7 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
 - **Beispiel:**  
   - Ein Kaufvertrag über ein Buch kann mündlich abgeschlossen werden, da keine besondere Form vorgeschrieben ist.
 
----
+
 
 ### **2. Gesetzlich vorgeschriebene Form (Abs. 1)**  
 - Für bestimmte Vertragsarten schreibt das Gesetz eine besondere Form vor. Diese Formvorschriften dienen der **Rechtssicherheit** und dem **Schutz der Parteien**.  
@@ -268,13 +273,15 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
   - **Einfache Schriftlichkeit:** Kündigung eines Mietvertrags (Art. 266l OR).  
   - **Öffentliche Beurkundung:** Grundstückkauf (Art. 216 OR).  
 
----
+
 
 ### **3. Bedeutung der Form für die Gültigkeit des Vertrags (Abs. 2)**  
 - Die gesetzlich vorgeschriebene Form ist in der Regel eine **Gültigkeitsvoraussetzung**.  
 - Wird die vorgeschriebene Form nicht eingehalten, ist der Vertrag **nichtig**.  
 - **Beispiel:**  
   - Ein Grundstückverkauf, der ohne öffentliche Beurkundung abgeschlossen wurde, ist ungültig.
+
+
 
 ---
 ---
@@ -285,7 +292,7 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
 1. Ist für einen Vertrag, der vom Gesetze an keine Form gebunden ist, die Anwendung einer solchen vorbehalten worden, so wird vermutet, dass die Parteien vor Erfüllung der Form nicht verpflichtet sein wollen.  
 2. Geht eine solche Abrede auf schriftliche Form ohne nähere Bezeichnung, so gelten für deren Erfüllung die Erfordernisse der gesetzlich vorgeschriebenen Schriftlichkeit.
 
----
+
 
 ## **Tatbestände von Art. 16 OR**
 
@@ -295,7 +302,7 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
 - **Beispiel:**  
   - A und B einigen sich mündlich über den Kauf eines Autos und vereinbaren, den Vertrag schriftlich zu fixieren. Ohne schriftliche Abfassung wird vermutet, dass sie sich noch nicht verpflichten wollen.
 
----
+
 
 ### **2. Schriftform ohne nähere Angaben (Abs. 2)**  
 - Wird lediglich eine **schriftliche Form** vereinbart, ohne weitere Details festzulegen, gelten die Voraussetzungen der **gesetzlich vorgeschriebenen Schriftlichkeit**:  
@@ -304,4 +311,4 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
 - **Beispiel:**  
   - A und B vereinbaren, den Vertrag „schriftlich“ zu schließen. Die Schriftform wird erst dann erfüllt, wenn beide unterschrieben haben.
 
----
+

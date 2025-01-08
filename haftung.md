@@ -1,8 +1,3 @@
----
-title: "haftung"
-output: pdf_document
----
-
 # Table Of Content
 
 1.  **Allgemeine Verschuldenshaftung**
@@ -13,6 +8,7 @@ output: pdf_document
 3. **Werkeigentümerhaftung**
     - a. [Art. 58 OR](TODO)
 
+
 ---
 ---
 # Art. 41 OR Haftung für unerlaubte Handlung
@@ -22,7 +18,7 @@ output: pdf_document
 1. Wer einem andern widerrechtlich Schaden zufügt, sei es mit Absicht, sei es aus Fahrlässigkeit, wird ihm zum Ersatz verpflichtet.  
 2. Ebenso ist zum Ersatze verpflichtet, wer einem andern in einer gegen die guten Sitten verstossenden Weise absichtlich Schaden zufügt.
 
----
+
 
 ## **Tatbestände von Art. 41 OR**
 
@@ -31,7 +27,7 @@ Ein Schaden ist eine unfreiwillige Vermögensverminderung. Diese kann sein:
 - **Personenschaden**: Zum Beispiel Heilungskosten, Erwerbsausfall, Schmerzensgeld.
 - **Sachschaden**: Beschädigung, Zerstörung oder Verlust von Eigentum.
 
----
+
 
 ### **2. Widerrechtlichkeit**
 Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetzliche Pflicht verstößt. Dies geschieht auf zwei Arten:
@@ -42,7 +38,7 @@ Rechtfertigungsgründe können sein:
 - **Einwilligung des Geschädigten.**
 - **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
 
----
+
 
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
@@ -53,7 +49,7 @@ Die Handlung muss ursächlich für den Schaden sein:
     - Grobes Selbstverschulden
     - Grobes Drittverschulden (Arzt operiert und dient als Drittperson)
   
----
+
 
 ### **4. Verschulden**
 Das Verschulden umfasst objektive und subjektive seite:
@@ -68,7 +64,7 @@ Das Verschulden umfasst objektive und subjektive seite:
 - Ausnahme [Art. 54 OR](#art-54-or-haftung-urteilsunfähiger-personen)
 
 
----
+
 
 ## **Besonderheit: Absatz 2 – Sittenwidrigkeit**
 - Ersatzpflicht besteht auch, wenn der Schaden durch eine absichtliche Handlung verursacht wurde, die **gegen die guten Sitten verstösst**.
@@ -76,6 +72,7 @@ Das Verschulden umfasst objektive und subjektive seite:
 
 ### **Definition der guten Sitten**
 Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein als anständig und moralisch akzeptabel gelten. Ein Verstoß liegt vor, wenn die Handlung das Anstandsgefühl und die Moral erheblich verletzt.
+
 
 
 ---
@@ -110,6 +107,7 @@ Bemessung durch Richter
 - **Schwere Persönlichkeitsverletzung**: [Art. 49 OR](#art-49-or-genugtuung-bei-persönlichkeitsverletzung)
   - Angehörige könnten Anspruch auf Genugtuung haben bei Körpervelertzung
 
+
 ---
 ---
 # Art. 54 OR Haftung urteilsunfähiger Personen
@@ -119,7 +117,7 @@ Bemessung durch Richter
 1. Aus Billigkeit kann der Richter auch eine nicht urteilsfähige Person, die Schaden verursacht hat, zu teilweisem oder vollständigem Ersatze verurteilen.  
 2. Hat jemand vorübergehend die Urteilsfähigkeit verloren und in diesem Zustand Schaden angerichtet, so ist er hierfür ersatzpflichtig, wenn er nicht nachweist, dass dieser Zustand ohne sein Verschulden eingetreten ist.
 
----
+
 
 ## **Tatbestände von Art. 54 OR**
 
@@ -134,7 +132,7 @@ Bemessung durch Richter
   3. **Billigkeitsprüfung**: Der Richter beurteilt, ob es angemessen ist, die urteilsunfähige Person zum Schadenersatz zu verpflichten.
 - **Beispiel**: Ein Kind, das nach Art. 16 ZGB urteilsunfähig ist, beschädigt versehentlich die Fensterscheibe eines Nachbarn.
 
----
+
 
 ### **2. Haftung bei vorübergehender Urteilsunfähigkeit (Abs. 2)**
 - **Definition**: Eine Person verliert vorübergehend die Fähigkeit, vernunftgemäß zu handeln, und verursacht in diesem Zustand Schaden.
@@ -147,6 +145,7 @@ Bemessung durch Richter
   4. **Verschuldensvermutung**: Die Person haftet, wenn sie nicht nachweisen kann, dass der Zustand der Urteilsunfähigkeit ohne eigenes Verschulden eingetreten ist.
 - **Beispiel**: Eine Person verursacht in einem alkoholbedingten Rauschzustand einen Verkehrsunfall.
 
+
 ---
 ---
 # Art. 16 ZGB Urteilsfähigkeit
@@ -155,14 +154,14 @@ Bemessung durch Richter
 **Art. 16 ZGB**  
 Urteilsfähig im Sinne dieses Gesetzes ist jede Person, der nicht wegen ihres Kindesalters, infolge geistiger Behinderung, psychischer Störung, Rausch oder ähnlicher Zustände die Fähigkeit mangelt, vernunftgemäß zu handeln.
 
----
+
 
 ## **Tatbestände von Art. 16 ZGB**
 
 ### **1. Grundsatz**
 - Eine Person ist urteilsfähig, wenn sie in der Lage ist, vernunftgemäß zu handeln.
 
----
+
 
 ### **2. Gründe für Urteilsunfähigkeit**
 Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, dass die Fähigkeit zu vernunftgemäßem Handeln fehlt:
@@ -170,6 +169,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 2. **Geistige Behinderung**: Angeborene oder erworbene Beeinträchtigung der geistigen Fähigkeiten.
 3. **Psychische Störung**: Vorübergehende oder dauerhafte Beeinträchtigung durch psychische Erkrankungen.
 4. **Rausch oder ähnliche Zustände**: Vorübergehende Beeinträchtigung durch Alkohol, Drogen oder ähnliche Einflüsse.
+
 
 ---
 ---
@@ -180,14 +180,14 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 1. Körperverletzung gibt dem Verletzten Anspruch auf Ersatz der Kosten, sowie auf Entschädigung für die Nachteile gänzlicher oder teilweiser Arbeitsunfähigkeit, unter Berücksichtigung der Erschwerung des wirtschaftlichen Fortkommens.  
 2. Sind im Zeitpunkte der Urteilsfällung die Folgen der Verletzung nicht mit hinreichender Sicherheit festzustellen, so kann der Richter bis auf zwei Jahre, vom Tage des Urteils an gerechnet, dessen Abänderung vorbehalten.
 
----
+
 
 ## **Tatbestände von Art. 46 OR**
 
 ### **1. Körperverletzung**
 - **Definition**: Körperverletzung umfasst jede Beeinträchtigung der körperlichen Integrität, z. B. Verletzungen, Krankheiten oder gesundheitliche Schäden, die eine medizinische Behandlung erfordern.
 
----
+
 
 ### **2. Ersatz der Kosten**
 - Der Verletzte hat Anspruch auf Ersatz aller Kosten, die infolge der Körperverletzung entstehen.
@@ -196,7 +196,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - Pflegekosten (z. B. Kosten für häusliche Betreuung).
   - Kosten für Hilfsmittel (z. B. Rollstühle, Prothesen).
 
----
+
 
 ### **3. Entschädigung für Arbeitsunfähigkeit**
 - Der Verletzte kann eine Entschädigung für den Verlust oder die Einschränkung seiner Erwerbsfähigkeit fordern.
@@ -205,12 +205,13 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - **Teilweiser Arbeitsunfähigkeit**: Der Verletzte ist nur eingeschränkt arbeitsfähig.
   - **Erschwerung des wirtschaftlichen Fortkommens**: Dauerhafte Nachteile bei der beruflichen Karriere oder im Arbeitsleben aufgrund der Verletzung.
 
----
+
 
 ### **4. Vorbehalt der Abänderung (Abs. 2)**
 - Wenn die langfristigen Folgen der Verletzung bei der Urteilsfällung nicht hinreichend sicher festgestellt werden können, kann der Richter eine **Abänderung des Urteils** vorbehalten.
 - **Zeitraum**: Eine Abänderung ist bis zu **zwei Jahre** ab dem Tag des Urteils möglich.
 - **Zweck**: Anpassung des Schadenersatzes an die tatsächlichen Spätfolgen, falls diese sich erst später zeigen.
+
 
 ---
 ---
@@ -222,7 +223,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 2. Ist der Tod nicht sofort eingetreten, so muss namentlich auch für die Kosten der versuchten Heilung und für die Nachteile der Arbeitsunfähigkeit Ersatz geleistet werden.  
 3. Haben andere Personen durch die Tötung ihren Versorger verloren, so ist auch für diesen Schaden Ersatz zu leisten.
 
----
+
 
 ## **Tatbestände von Art. 45 OR**
 
@@ -230,7 +231,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 - **Definition**: Die Tötung umfasst alle Fälle, in denen eine Person durch eine Handlung oder Unterlassung den Tod einer anderen Person verursacht.
 - **Tatbestandsmerkmal**: Es muss ein **kausaler Zusammenhang** zwischen der Handlung und dem Tod bestehen.
 
----
+
 
 ### **2. Ersatz der Kosten (Abs. 1)**
 - Es sind alle **Kosten** zu ersetzen, die durch den Tod entstanden sind.
@@ -238,14 +239,14 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - **Bestattungskosten**: Kosten für Beerdigung, Grabstein, Trauerfeier.
   - **Verwaltungs- und Behördenkosten**: Gebühren für Sterbeurkunden etc.
 
----
+
 
 ### **3. Ersatz bei verzögertem Tod (Abs. 2)**
 - Wenn der Tod nicht sofort eintritt, sind auch folgende **Kosten und Nachteile** zu ersetzen:
   - **Heilungskosten**: Kosten für ärztliche Behandlung, Krankenhausaufenthalte, Medikamente.
   - **Arbeitsunfähigkeit**: Entschädigung für den Verdienstausfall des Verstorbenen in der Zeit zwischen der Verletzung und dem Tod.
 
----
+
 
 ### **4. Ersatz für den Verlust des Versorgers (Abs. 3)**
 - Personen, die vom Verstorbenen finanziell abhängig waren, haben Anspruch auf Schadenersatz.
@@ -253,6 +254,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - Ehepartner oder eingetragene Partner.
   - Kinder oder andere Angehörige, die vom Verstorbenen unterhalten wurden.
 - Der Ersatz umfasst den finanziellen Unterhalt, den die versorgungsberechtigte Person aufgrund der Tötung verloren hat.
+
 
 ---
 ---
@@ -262,7 +264,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 **Art. 43 OR**  
 1. Art und Größe des Ersatzes für den eingetretenen Schaden bestimmt der Richter, der hiebei sowohl die Umstände als auch die Größe des Verschuldens zu würdigen hat.
 
----
+
 
 ## **Tatbestände von Art. 43 OR**
 
@@ -272,7 +274,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - **Personenschaden**: Heilungskosten, Verdienstausfall, Schmerzensgeld.
   - **Sachschaden**: Kosten für Reparatur oder Ersatz beschädigter Gegenstände.
 
----
+
 
 ### **2. Ermessensspielraum des Richters**
 - Der Richter entscheidet über die **Art und Größe des Schadenersatzes**.
@@ -284,6 +286,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
      - Grad des Verschuldens: Fahrlässigkeit oder Absicht.
      - Mitverschulden des Geschädigten: Der Richter kann den Ersatzanspruch kürzen, wenn der Geschädigte zur Entstehung oder Verschlimmerung des Schadens beigetragen hat.
 
+
 ---
 ---
 # Art. 44 OR Reduktion der Ersatzpflicht
@@ -293,7 +296,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 1. Hat der Geschädigte in die schädigende Handlung eingewilligt, oder haben Umstände, für die er einstehen muss, auf die Entstehung oder Verschlimmerung des Schadens eingewirkt oder die Stellung des Ersatzpflichtigen sonst erschwert, so kann der Richter die Ersatzpflicht ermäßigen oder gänzlich von ihr entbinden.  
 2. Würde ein Ersatzpflichtiger, der den Schaden weder absichtlich noch grobfahrlässig verursacht hat, durch Leistung des Ersatzes in eine Notlage versetzt, so kann der Richter auch aus diesem Grunde die Ersatzpflicht ermäßigen.
 
----
+
 
 ## **Tatbestände von Art. 44 OR**
 
@@ -302,7 +305,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 - **Rechtsfolge**: Die Einwilligung des Geschädigten kann zur Reduktion oder Aufhebung der Ersatzpflicht führen.
 - **Beispiel**: Eine Person stimmt freiwillig einem riskanten Sportereignis zu und erleidet Verletzungen.
 
----
+
 
 ### **2. Mitverschulden des Geschädigten**
 - **Definition**: Der Geschädigte hat durch eigenes Verhalten zur Entstehung oder Verschlimmerung des Schadens beigetragen.
@@ -311,18 +314,19 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
   - Der Geschädigte ignoriert Sicherheitsvorschriften.
   - Der Geschädigte trägt keinen Sicherheitsgurt und erleidet deshalb schwerere Verletzungen bei einem Unfall.
 
----
+
 
 ### **3. Erschwerung der Stellung des Ersatzpflichtigen**
 - **Definition**: Umstände, die die Situation des Ersatzpflichtigen erschweren, können berücksichtigt werden.
 - **Rechtsfolge**: Der Richter kann die Ersatzpflicht mindern oder aufheben.
 
----
+
 
 ### **4. Finanzielle Notlage des Ersatzpflichtigen (Abs. 2)**
 - **Definition**: Der Ersatzpflichtige hat den Schaden weder absichtlich noch grobfahrlässig verursacht und würde durch die Ersatzleistung in eine existenzielle Notlage geraten.
 - **Rechtsfolge**: Der Richter kann die Ersatzpflicht ermäßigen.
 - **Beispiel**: Ein finanziell schlecht gestellter Unfallverursacher müsste seine Wohnung verkaufen, um Schadenersatz zu leisten.
+
 
 
 
@@ -335,7 +339,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
 **Art. 47 OR**  
 Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdigung der besonderen Umstände dem Verletzten oder den Angehörigen des Getöteten eine angemessene Geldsumme als Genugtuung zusprechen.
 
----
+
 
 ## **Tatbestände von Art. 47 OR**
 
@@ -346,7 +350,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - Es liegt eine erhebliche Beeinträchtigung der körperlichen oder psychischen Integrität vor.
   - **Beispiele**: Verlust eines Körperteils, chronische Schmerzen, dauerhafte Arbeitsunfähigkeit.
 
----
+
 
 ### **2. Anspruchsberechtigte Personen**
 - **Bei Tötung**:
@@ -354,7 +358,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 - **Bei Körperverletzung**:
   - Der Verletzte selbst.
 
----
+
 
 ### **3. Besondere Umstände**
 - Der Richter berücksichtigt die spezifischen Umstände des Falls:
@@ -362,12 +366,13 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - **Dauer der Beeinträchtigung** (vorübergehend oder dauerhaft).
   - **Seelisches Leid** der Angehörigen bei Tötung oder des Verletzten bei Körperverletzung.
 
----
+
 
 ### **4. Bemessung der Genugtuung**
 - Die zugesprochene Geldsumme soll den erlittenen Schmerz und das seelische Leid ausgleichen.
 - Der Betrag wird auf Grundlage der besonderen Umstände des Einzelfalls festgelegt.
 - **Beispiel**: Bei der Tötung eines nahen Angehörigen wird dem Ehepartner oder den Kindern eine höhere Genugtuung zugesprochen als entfernten Verwandten.
+
 
 ---
 ---
@@ -378,7 +383,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 1. Wer in seiner Persönlichkeit widerrechtlich verletzt wird, hat Anspruch auf Leistung einer Geldsumme als Genugtuung, sofern die Schwere der Verletzung es rechtfertigt und diese nicht anders wiedergutgemacht worden ist.  
 2. Anstatt oder neben dieser Leistung kann der Richter auch auf eine andere Art der Genugtuung erkennen.
 
----
+
 
 ## **Tatbestände von Art. 49 OR**
 
@@ -388,7 +393,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - **Privatsphäre** (z. B. Veröffentlichung persönlicher Informationen ohne Zustimmung).
   - **Körperliche und seelische Integrität** (z. B. durch Demütigung oder Mobbing).
 
----
+
 
 ### **2. Widerrechtlichkeit**
 - Die Persönlichkeitsverletzung ist widerrechtlich, sofern kein Rechtfertigungsgrund vorliegt.
@@ -397,7 +402,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - **Wahrnehmung berechtigter Interessen** (z. B. Pressefreiheit bei wahrheitsgemäßer Berichterstattung).
   - **Gesetzliche Erlaubnis** (z. B. zulässige Maßnahmen durch die Polizei).
 
----
+
 
 ### **3. Schwere der Verletzung**
 - Eine Genugtuung wird nur zugesprochen, wenn die Verletzung besonders schwer wiegt.
@@ -406,7 +411,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   - Öffentliche Diffamierung und unwahre Behauptungen, die das Ansehen erheblich beeinträchtigen.
   - Persönliche Demütigung, die psychische Schäden verursacht.
 
----
+
 
 ### **4. Genugtuungsleistung**
 - Der Richter kann dem Geschädigten eine **Geldsumme** als Genugtuung zusprechen.
@@ -414,6 +419,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 - Neben oder anstelle der Geldleistung kann der Richter eine **andere Art der Genugtuung** festlegen:
   - **Öffentliche Richtigstellung**.
   - **Entschuldigung** oder Widerruf der falschen Behauptung.
+
 
 ---
 ---
@@ -425,7 +431,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 2. Wer in fremdes Vermögen eingreift, um drohenden Schaden oder Gefahr von sich oder einem andern abzuwenden, hat nach Ermessen des Richters Schadenersatz zu leisten.  
 3. Wer zum Zwecke der Sicherung eines berechtigten Anspruches sich selbst Schutz verschafft, ist dann nicht ersatzpflichtig, wenn nach den gegebenen Umständen amtliche Hilfe nicht rechtzeitig erlangt und nur durch Selbsthilfe eine Vereitelung des Anspruches oder eine wesentliche Erschwerung seiner Geltendmachung verhindert werden konnte.
 
----
+
 
 ## **Tatbestände von Art. 52 OR**
 
@@ -437,7 +443,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   2. **Erforderlichkeit und Verhältnismäßigkeit**: Die Abwehrhandlung darf nicht unverhältnismäßig sein.
 - **Beispiel**: Eine Person stößt einen Angreifer weg, wodurch dieser stürzt und sein Handy zerstört wird.
 
----
+
 
 ### **2. Notstand (Abs. 2)**
 - **Definition**: Notstand liegt vor, wenn jemand in das Vermögen eines Dritten eingreift, um drohenden Schaden oder eine Gefahr von sich oder einer anderen Person abzuwenden.
@@ -448,7 +454,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   3. Die Handlung muss **verhältnismäßig** sein.
 - **Beispiel**: Eine Person nutzt ohne Erlaubnis einen Feuerlöscher des Nachbarn, um ein Feuer zu löschen, und beschädigt dabei den Löscher.
 
----
+
 
 ### **3. Selbsthilfe (Abs. 3)**
 - **Definition**: Selbsthilfe bedeutet, dass jemand eigenmächtig einen berechtigten Anspruch sichert, wenn keine amtliche Hilfe rechtzeitig erreichbar ist.
@@ -459,6 +465,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
   3. Die Selbsthilfehandlung ist zur **Sicherung des Anspruchs notwendig**.
 - **Beispiel**: Eine Person holt sich ihr gestohlenes Fahrrad zurück und beschädigt dabei versehentlich einen Teil der Fahrradkette.
 
+
 ---
 ---
 # Art. 55 OR Haftung des Geschäftsherrn
@@ -468,7 +475,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 1. Der Geschäftsherr haftet für den Schaden, den seine Arbeitnehmer oder andere Hilfspersonen in Ausübung ihrer dienstlichen oder geschäftlichen Verrichtungen verursacht haben, wenn er nicht nachweist, dass er alle nach den Umständen gebotene Sorgfalt angewendet hat, um einen Schaden dieser Art zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre.  
 2. Der Geschäftsherr kann auf denjenigen, der den Schaden gestiftet hat, insoweit Rückgriff nehmen, als dieser selbst schadenersatzpflichtig ist.
 
----
+
 
 ## **Definition: Hilfsperson**
 Eine **Hilfsperson** ist jemand, der eine Geschäftsbesorgung für den Geschäftsherrn ausführt und zu diesem in einem **Subordinationsverhältnis** (Unterordnungsverhältnis) steht.  
@@ -482,7 +489,7 @@ Eine **Hilfsperson** ist jemand, der eine Geschäftsbesorgung für den Geschäft
   - **Selbständig Erwerbende**: Personen, die unabhängig ihre Dienstleistungen anbieten.
   - **Organe juristischer Personen**: Diese haften direkt nach den Vorschriften über die Organhaftung (Art. 55 Abs. 1 ZGB, Art. 716 OR).
 
----
+
 
 ## **Tatbestände von Art. 55 OR**
 
@@ -491,7 +498,7 @@ Ein Schaden ist eine unfreiwillige Vermögensverminderung. Diese kann sein:
 - **Personenschaden**: Zum Beispiel Heilungskosten, Erwerbsausfall, Schmerzensgeld.
 - **Sachschaden**: Beschädigung, Zerstörung oder Verlust von Eigentum.
 
----
+
 
 ### **2. Widerrechtlichkeit**
 Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetzliche Pflicht verstößt. Dies geschieht auf zwei Arten:
@@ -502,7 +509,7 @@ Rechtfertigungsgründe können sein:
 - **Einwilligung des Geschädigten.**
 - **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
 
----
+
 
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
@@ -513,22 +520,22 @@ Die Handlung muss ursächlich für den Schaden sein:
     - Grobes Selbstverschulden
     - Grobes Drittverschulden (Arzt operiert und dient als Drittperson)
   
----
+
 
 ### **4. Fehlverhalten einer Hilfsperson**
 - Die schädigende Handlung muss im Rahmen der **geschäftlichen oder dienstlichen Tätigkeit** der Hilfsperson erfolgen.
 
 
----
+
 ### **5. in Ausübung dienstlicher oder geschäftlicher Verrichtung**
 - funktioneller Zusammenhang zwischen der Tätigkeit und dem Schaden besteht. Es reicht nicht, dass der Schaden nur bei Gelegenheit der Arbeit entstanden ist.
 
 
----
+
 ### **6. Geschäftsherreneigenschaft**
 - Ein Geschäftsherr ist jemand, der eine Geschäftsbesorgung von einer anderen Person ausführen lässt, die zu ihm in einem Subordinationsverhältnis (Unterordnungsverhältnis) steht.
 - Geschäftsherr kann eine natürliche Person (z. B. Unternehmer) oder eine juristische Person (z. B. ein Unternehmen) sein.  Ein Betriebsinhaber ist Geschäftsherr, nicht automatisch der direkte Vorgesetzte.
----
+
 
 ### **7. Misslingen des Sorgfaltsbeweises**
 - Der Geschäftsherr kann sich entlasten, indem er nachweist, dass er:
@@ -540,4 +547,3 @@ Die Handlung muss ursächlich für den Schaden sein:
 - Kann der Geschäftsherr diesen Nachweis nicht erbringen, haftet er.
 
 
----
