@@ -37,7 +37,7 @@ Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der ge
 ten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm 
 verletzt wird.
 
-1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit.
+1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit, psychischen Integrität 
 2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
 
 Rechtfertigungsgründe können sein:
@@ -48,7 +48,8 @@ Rechtfertigungsgründe können sein:
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
 - **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden.
-- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein.
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
+
 - **Gründe für Auschluss**
   - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
   - **Grobes** Selbstverschulden
@@ -57,15 +58,16 @@ Die Handlung muss ursächlich für den Schaden sein:
 
 ### **4. Verschulden**
 Das Verschulden umfasst objektive und subjektive seite:
-#### Objektiv
+#### Objektiv (Tat zählt)
 - **Absicht**: Bewusstes und gewolltes Herbeiführen des Schadens.
 - **Fahrlässigkeit**: Das Nichtbeachten der erforderlichen Sorgfalt.  
   Fahrlässigkeit wird anhand des Verhaltens einer sorgfältigen Person in derselben Situation beurteilt (objektive Merkmale wie Beruf, Alter, Erfahrung ...)
+  - **Gefahrensatz**: Dieser besagt, dass derjenige, der einen gefährlichen Zustand schafft die durch die Umstände gebotenen Sorgfaltsmassnahmen treffen muss, um einen Unfall zu verhindern. Werden die gebotenen Sorgfaltsmassnahmen missachtet, liegt Fahrlässigkeit vor. 
 
-#### Subjektiv
+#### Subjektiv (Mensch)
 - **Urteilsfähigkeit**: Die Urteilsfähigkeit ist die Fähigkeit, vernunftgemäss mit Einsicht und Wille zu handeln. Sie wird gemäss [Art. 16 ZGB](#art-16-zgb-urteilsfähigkeit) vermutet. 
   - **mangelnde Urteilsfähigkeit**: Kindesalter, psychische Krankheit, geistige Behinderung, Rausch und ähnliche Zustände
-- Ausnahme [Art. 54 OR](#art-54-or-haftung-urteilsunfähiger-personen)
+    - Ausnahme [Art. 54 OR](#art-54-or-haftung-urteilsunfähiger-personen)
 
 
 ## **Besonderheit: Absatz 2 – Sittenwidrigkeit**
@@ -75,7 +77,7 @@ Das Verschulden umfasst objektive und subjektive seite:
 ### **Definition der guten Sitten**
 Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein als anständig und moralisch akzeptabel gelten. Ein Verstoß liegt vor, wenn die Handlung das Anstandsgefühl und die Moral erheblich verletzt.
 
-## **Zwischenfazit**
+## **Zwischenfazit / Rechtsfolge**
 Alle Tatbestandselemente von Art. 41 Abs. 1 OR sind im vorliegenden Fall erfüllt. Deshalb tritt die Rechtsfolge ein: A wird gegenüber B schadenersatzpflichtig.  
 Näher zu prüfen bleibt im Folgenden, wie hoch der Schaden von A ist (Schadensberechnung) und in welchem Umfang ihn B zu ersetzen hat (Schadenersatzbemessung). 
 
