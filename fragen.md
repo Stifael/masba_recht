@@ -18,3 +18,11 @@ können.
 ## Frage
 Bei Besitzanweisung
 Beispiel: Gemälde in Galerie, Veräusserer A hat Galeriemiete nicht bezahlt. Erwerber B, welcher zum neuen selbständiger Besitzer wird, möchte das Bild physisch haben. Kann die Galerie die Herausgabe des Bildes verweigern? Welche Option hat der Erwerber?
+
+
+# Tatbestände definition
+Kann man Definition geben und dan erklären, oder sollte alles in einem Satz sein?
+Letzte Lektion wurde erähnt, dass die Definition teils der Erklärung sein sollte.
+
+# Von welchen Artikel braucht es Tatbestände Auflistung
+Beispiel: Art. 44 Abs. 1 OR Reduktion der Ersatzpflicht

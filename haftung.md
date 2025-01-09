@@ -18,19 +18,25 @@
 1. Wer einem andern widerrechtlich Schaden zufügt, sei es mit Absicht, sei es aus Fahrlässigkeit, wird ihm zum Ersatz verpflichtet.  
 2. Ebenso ist zum Ersatze verpflichtet, wer einem andern in einer gegen die guten Sitten verstossenden Weise absichtlich Schaden zufügt.
 
+## **Rechtsfrage**
+Hat A gegen B einen Schadenersatzanspruch aus Art. 41 Abs. 1 OR?
 
 
 ## **Tatbestände von Art. 41 OR**
 
-### **1. Schaden**
-Ein Schaden ist eine unfreiwillige Vermögensverminderung. Diese kann sein:
-- **Personenschaden**: Zum Beispiel Heilungskosten, Erwerbsausfall, Schmerzensgeld.
-- **Sachschaden**: Beschädigung, Zerstörung oder Verlust von Eigentum.
+Die Haftung nach Art. 41 Abs. 1 OR setzt die Tatbestandselemente Schaden, Kausalzusammenhang, Widerrechtlichkeit und Verschulden voraus. Diese werden im Folgenden 
+einzeln (nach dem Syllogismus-Prinzip) geprüft.
 
+### **1. Schaden**
+Schaden ist jede unfreiwillige Vermögensverminderung, die in einer Verminderung der 
+Aktiven, einer Vermehrung der Passiven oder in entgangenem Gewinn bestehen kann.
 
 
 ### **2. Widerrechtlichkeit**
-Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetzliche Pflicht verstößt. Dies geschieht auf zwei Arten:
+Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der geschädig
+ten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm 
+verletzt wird.
+
 1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit.
 2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
 
@@ -39,17 +45,15 @@ Rechtfertigungsgründe können sein:
 - **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
 
 
-
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
 - **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden.
-- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung geeignet, einen solchen Schaden herbeizuführen. 
-  - Auschluss:
-    - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
-    - Grobes Selbstverschulden
-    - Grobes Drittverschulden (Arzt operiert und dient als Drittperson)
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein.
+- **Gründe für Auschluss**
+  - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
+  - **Grobes** Selbstverschulden
+  - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
   
-
 
 ### **4. Verschulden**
 Das Verschulden umfasst objektive und subjektive seite:
@@ -59,11 +63,9 @@ Das Verschulden umfasst objektive und subjektive seite:
   Fahrlässigkeit wird anhand des Verhaltens einer sorgfältigen Person in derselben Situation beurteilt (objektive Merkmale wie Beruf, Alter, Erfahrung ...)
 
 #### Subjektiv
-- **Urteilsfähigkeit**: vernunftgemäss zu handeln, welches Einsicht sowie Wille nach Einsicht zu handeln.
+- **Urteilsfähigkeit**: Die Urteilsfähigkeit ist die Fähigkeit, vernunftgemäss mit Einsicht und Wille zu handeln. Sie wird gemäss [Art. 16 ZGB](#art-16-zgb-urteilsfähigkeit) vermutet. 
   - **mangelnde Urteilsfähigkeit**: Kindesalter, psychische Krankheit, geistige Behinderung, Rausch und ähnliche Zustände
 - Ausnahme [Art. 54 OR](#art-54-or-haftung-urteilsunfähiger-personen)
-
-
 
 
 ## **Besonderheit: Absatz 2 – Sittenwidrigkeit**
@@ -73,12 +75,15 @@ Das Verschulden umfasst objektive und subjektive seite:
 ### **Definition der guten Sitten**
 Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein als anständig und moralisch akzeptabel gelten. Ein Verstoß liegt vor, wenn die Handlung das Anstandsgefühl und die Moral erheblich verletzt.
 
-
+## **Zwischenfazit**
+Alle Tatbestandselemente von Art. 41 Abs. 1 OR sind im vorliegenden Fall erfüllt. Deshalb tritt die Rechtsfolge ein: A wird gegenüber B schadenersatzpflichtig.  
+Näher zu prüfen bleibt im Folgenden, wie hoch der Schaden von A ist (Schadensberechnung) und in welchem Umfang ihn B zu ersetzen hat (Schadenersatzbemessung). 
 
 ---
 ---
 # Schadenersatz und Genugtuung
 ## **Schadensberechnung**
+Mit der Schadensberechnung wird ermittelt, wie gross der Schaden ist, den der Geschädigte durch das schädigende Ereignis erlitten hat. Nach der vom Bundesgericht verwendeten Differenztheorie besteht dieser Schaden in der Differenz zwischen dem jetzigen Vermögensstand der geschädigten Person und dem Stand, den dieses Vermögen ohne das schädigende Ereignis aufweisen würde.
 - **Differenztheorie**: Hypothetischer Vermögensstand - Gegenwärtiger Vermögensstand
   - Körperverletzung [Art. 46 OR](#art-46-or-schadenersatz-bei-körperverletzung)
   - Tötung [Art. 45 OR](#art-45-or-schadenersatz-bei-tötung-eines-menschen)
@@ -93,7 +98,11 @@ Die guten Sitten umfassen Verhaltensnormen, die in der Gesellschaft allgemein al
     - Gefälligkeitshandlungen
     - Ungewöhnlich hohes
     - Einkommen des Geschädigten
-    - Notlage des Haftpflichtigen 
+    - Notlage des Haftpflichtigen
+
+## **Fazit**
+B hat gegen A gestützt auf Art. 41 Abs. 1 OR einen Schadenersatzanspruch im Umfang der <Arztkosten> von CHF 90'000 sowie des zu schätzenden Erwerbsausfalls. Eine Reduktion des Schadenersatzes findet <nicht> statt.
+
 
 ## **Genugtuung**: Immaterielle Unbill
 Bemessung durch Richter
@@ -286,7 +295,7 @@ Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, das
      - Grad des Verschuldens: Fahrlässigkeit oder Absicht.
      - Mitverschulden des Geschädigten: Der Richter kann den Ersatzanspruch kürzen, wenn der Geschädigte zur Entstehung oder Verschlimmerung des Schadens beigetragen hat.
 
-
+### 
 ---
 ---
 # Art. 44 OR Reduktion der Ersatzpflicht
