@@ -26,3 +26,6 @@ Letzte Lektion wurde erähnt, dass die Definition teils der Erklärung sein soll
 
 # Von welchen Artikel braucht es Tatbestände Auflistung
 Beispiel: Art. 44 Abs. 1 OR Reduktion der Ersatzpflicht
+
+# Kindesalter Urteilsfähigkeit 
+Bereich?

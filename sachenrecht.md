@@ -107,6 +107,11 @@
   - **Beispiel**: Der Mieter besitzt das Haus nur für die Dauer des Mietverhältnisses und auf Grundlage des Mietvertrags.
 
 
+### Unmittelbarer Besitzer
+Ein unmittelbarer Besitzer hat direkten physischen Zugriff auf die Sache. Er besitzt die Sache ohne dazwischengeschaltete Personen.
+Beispiel: unselbständiger Besitzer (Mieter) vermitetet Wohnung weiter an Untermieter. Untermieter ist nun unmittelbarer Besitzer.
+
+
 ---
 ---
 # Art. 926 ZGB Selbsthilfe des Besitzers
@@ -259,23 +264,26 @@ Die Übergabe ist vollzogen, sobald sich der Empfänger mit Willen des bisherige
 ## **Tatbestände von Art. 922 Abs. 2 ZGB**
 
 ### **1. Einigung über die Besitzübertragung**
-- Der bisherige Besitzer und der neue Besitzer müssen sich darüber einig sein, dass der Besitz übertragen wird.
+- Der bisherige Besitzer und der neue Besitzer müssen sich darüber einig sein, dass der Erwerber neuer selbständiger Besitzer wird. 
 - **Beispiel**: A verkauft B eine Maschine und erklärt ihm, dass er sie ab sofort nutzen darf.
-
 
 
 ### **2. Ermöglichung der tatsächlichen Kontrolle über die Sache**
 - Der neue Besitzer muss durch den Willen des bisherigen Besitzers in die Lage versetzt werden, die Gewalt über die Sache auszuüben.
 - Dies kann auf verschiedene Arten geschehen:
-  - **Durch „kurze Hand“**: Der Erwerber hat die Sache bereits (z. B. als Mieter) und erklärt nun, sie fortan als Eigentümer zu besitzen.
-  - **Durch „lange Hand“**: Der Erwerber erhält den Besitz an einer Sache, ohne sie physisch übernehmen zu müssen (z. B. Anweisung zur Abholung).
-
+  - **Durch „kurze Hand“**: Der Erwerber hat die Sache bereits (z. B. als Mieter) und erklärt nun, sie fortan als Eigentümer zu besitzen. Der Erwerber ist bereits unselbständier, unmittelbarer Besitzer, während Veräusserer selbständiger, mittelbarer Bsitzer ist.
+  - **Durch „lange Hand“**: Offene Besitzlage. Der Erwerber erhält den Besitz an einer Sache, ohne sie physisch übernehmen zu müssen (z. B. Anweisung zur Abholung). 
 
 
 ### **3. Keine physische Übergabe notwendig**
 - Die Besitzübertragung ist vollzogen, ohne dass eine tatsächliche Übergabe „vor Ort“ stattfindet.
 - **Beispiel für „kurze Hand“**: Ein Mieter kauft das gemietete Fahrzeug und behält es in seinem Besitz.
 - **Beispiel für „lange Hand“**: Ein Käufer übernimmt ein Lagergut durch eine Besitzanweisung, ohne es direkt abzuholen.
+
+### Rechtsfolge
+- **kurze Hand**: übergang des selbständigen Besitzes ohne Sachübergabe im Moment der Einigung.
+- **lange Hand**: übergang des Besitzes ohne Sachübergabe im Moment der Einigugn. 
+
 
 
 ---
@@ -304,15 +312,28 @@ Die Übergabe ist vollzogen, sobald sich der Empfänger mit Willen des bisherige
   - A verkauft B ein Gemälde, behält es aber aufgrund eines Verwahrungsvertrags in seinem Besitz.  
   - A bleibt „Halter“ der Sache, B ist neuer Besitzer und Eigentümer.
 
+#### Tatbestandselemente
+- Die Sache bleibt aufgrund eines besonderen Rechtsverhältnis beim Veräusserer.
+- Eingiugng: Nach beidseitigem Willen soll der Erwerber selbständiger, mittelbarer Bsitzer werden, während der Veräusser die Sach als unselbständiger, unmittelbarer Besitzer bei sich behalten soll.
+
+#### Rechtsfolge
+übergang des (selbständigen) Besitzes ohne Sachübergabe im Moment der Einigung.
 
 
 ### **3. Besitzanweisung (Abs. 1)**  
-- **Definition**: Der bisherige Besitzer weist einen **Dritten** an, die Sache künftig für den Erwerber zu halten.  
+- **Definition**: Der bisherige Besitzer weist einen **Dritten** an, die Sache künftig für den Erwerber zu halten. 
+
 - **Beispiel**:  
   - A verkauft B ein Gemälde, das sich in einer Galerie zur Ausstellung befindet.  
   - A weist die Galerie an, das Gemälde künftig für B zu halten.  
   - Die Besitzübertragung gilt erst als vollzogen, wenn die Galerie über den Besitzwechsel informiert wurde.
 
+#### **Tatbestandselemente**
+- Die Sache befindet sich aufgrund eines besonderen Rechtsverhältnis bei einer Drittperson, die unselbstädnige, umittelbare Besitzerin ist.
+- Einigung: Nach beidseitigem Willen soll zwar die Sache bei der Drittperson bleiben, aber neu die Erwerberin (anstelle des Veräusserers) selbständiger, mittelbare Besitzerin werden.
+
+#### **Rechtsfolge**
+übergang des (selbständigen, mittelbaren) Besitzes ohne Sachübergabe im Moment der Einigung. Für die Wirksamkeit gegnüber der Drittperson ist zusätzlich vorausgesetzt, dass der Veräusserer ihr den Besitzübergang anzeigt. 
 
 
 ### **4. Wirksamkeit gegenüber Dritten (Abs. 2)**  
