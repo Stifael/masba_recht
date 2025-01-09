@@ -101,7 +101,7 @@ Mit der Schadensberechnung wird ermittelt, wie gross der Schaden ist, den der Ge
     - Notlage des Haftpflichtigen
 
 ## **Fazit**
-B hat gegen A gestützt auf Art. 41 Abs. 1 OR einen Schadenersatzanspruch im Umfang der <Arztkosten> von CHF 90'000 sowie des zu schätzenden Erwerbsausfalls. Eine Reduktion des Schadenersatzes findet <nicht> statt.
+B hat gegen A gestützt auf Art. 41 Abs. 1 OR einen Schadenersatzanspruch im Umfang der "Arztkosten" von CHF 90'000 sowie des zu schätzenden Erwerbsausfalls. Eine Reduktion des Schadenersatzes findet "nicht" statt.
 
 
 ## **Genugtuung**: Immaterielle Unbill
