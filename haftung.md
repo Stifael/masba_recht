@@ -6,7 +6,7 @@
 2. **Geschäftsherrenhaftung**
     - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
 3. **Werkeigentümerhaftung**
-    - a. [Art. 58 OR](TODO)
+    - a. [Art. 58 OR Haftung des Werkeigentümers](#art-58-or-haftung-des-werkeigentümers)
 
 
 ---
@@ -557,4 +557,71 @@ Die Handlung muss ursächlich für den Schaden sein:
     - Ausrüstung mit tauglichem Werkzeug und Material
 - Kann der Geschäftsherr diesen Nachweis nicht erbringen, haftet er.
 
+---
+---
+# Art. 58 OR Haftung des Werkeigentümers
 
+## **Rechtsnorm**  
+**Art. 58 OR**  
+1. Der Eigentümer eines Gebäudes oder eines anderen Werkes hat den Schaden zu ersetzen, den diese infolge von fehlerhafter Anlage oder Herstellung oder von mangelhafter Instandhaltung verursachen.  
+2. Vorbehalten bleibt ihm der Rückgriff auf andere, die ihm hierfür verantwortlich sind.
+
+
+## **Tatbestände von Art. 58 OR**
+
+### **1. Schaden**
+- Es muss ein **Schaden** entstanden sein (z. B. ein Personen- oder Sachschaden).
+- **Beispiel:** Ein lockerer Ziegel fällt vom Dach und beschädigt das Auto eines Passanten.
+
+
+### **2. Werk**
+- Ein **Werk** ist eine stabil mit dem **Boden verbundene**, **künstlich** geschaffene oder angepasste Sache (z. B. Gebäude, Brücke, Strasse).  
+- **Beispiel:** Ein Hausdach, eine Mauer, ein Treppenaufgang.
+- **Antibeispiel**: Autos, Fahrzeuge sind keine Werke
+
+
+
+### **3. Werkmangel**
+Ein Werkmangel liegt vor, wenn das Werk für den Gebrauch, zu dem es bestimmt ist, keine genügende Sicherheit bietet.
+- Der Schaden muss auf:  
+  - **fehlerhafte Anlage** (z. B. Konstruktionsfehler),  
+  - **fehlerhafte Herstellung** (z. B. Baumängel), oder  
+  - **mangelhafte Instandhaltung** (z. B. unterlassene Reparaturen) zurückzuführen sein.  
+- **Beispiel:** Eine Treppe wird nicht ordnungsgemäß repariert, und ein Besucher stürzt aufgrund einer losen Stufe.
+
+
+### **4. Kausalzusammenhang**
+- Der Schaden muss auf die fehlerhafte Anlage, Herstellung oder mangelhafte Instandhaltung zurückzuführen sein (natürlicher und adäquater Kausalzusammenhang).  
+- **Beispiel:** Der Ziegel fällt, weil das Dach nicht gewartet wurde.
+
+
+
+### **5. Eigentümerschaft des Werks**
+- Der **Eigentümer** des Werks haftet, unabhängig davon, ob er selbst Verschulden trägt.  
+- **Hinweis:** Es handelt sich um eine sogenannte **Kausalhaftung**.
+    - Werkeigentümer kann auch eine juristische Person oder Personenmehrheit (Mit- oder Gesamteigentümer) sein.
+    - Eine Mehrheit von Eigentümern haften solidarisch.
+    - Gemeinwesen (Bund, Kantone, Gemeinden) haften gleich wie private Eigentümer fürdie in ihrem Eigentum bzw. in ihrer Sachherrschaft stehenden Werke
+
+
+
+## **Rechtsfolgen von Art. 58 OR**
+
+### **1. Schadenersatzpflicht des Eigentümers**  
+- Der Eigentümer muss den verursachten Schaden ersetzen. Dies umfasst:  
+  - Ersatz der Reparaturkosten für beschädigte Sachen,  
+  - Heilungskosten bei Personenschäden,  
+  - Ersatz für Erwerbsausfall und Schmerzensgeld.  
+
+### **2. Rückgriffsmöglichkeit (Abs. 2)**  
+- Der Eigentümer kann **Rückgriff** auf andere nehmen, die für den Schaden verantwortlich sind (z. B. Bauunternehmer, Architekten).  
+- **Beispiel:** Wenn der Schaden auf einen Baufehler des beauftragten Unternehmens zurückzuführen ist, kann der Eigentümer das Unternehmen in Regress nehmen.
+
+
+
+## **Beispiele:**
+
+- **Beispiel 1:** A ist Eigentümer eines Hauses. Ein Ziegel, der sich durch mangelnde Dachwartung gelockert hat, fällt herunter und verletzt B. A haftet für den Personenschaden.  
+- **Beispiel 2:** Eine Brücke stürzt aufgrund von Konstruktionsfehlern ein. Der Kanton als Eigentümer haftet für Schäden an Fahrzeugen und Personen.
+
+---

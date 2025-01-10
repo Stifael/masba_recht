@@ -4,16 +4,14 @@
     -  [Art. 1 Abs. 1 OR Zustandekommen Vertrag](#art-1-or-zustandekommen-eines-vertrages)
         - I. [Art 18 OR Abs 1 Natürlicher Konsens](#art-18-or-auslegung-von-verträgen-und-simulation)
         - II. [Normativer Konsens](#normativer-konsens-vertrauensprinzip)
-        - III. [Art 2 Abs 1 OR Objektive-Subjektive Vertragspunkte](#art-2-or--vereinbarung-über-nebenpunkte)
+        - III. [Art 2 Abs 1 OR Objektive-Subjektive Vertragspunkte](#art-2-or-vereinbarung-über-nebenpunkte)
 2. **Vertragsschluss Antrag und Annahme**
     - a. [Art. 7 OR Abs 1 Antrag ohne Verbindlichkeit](#art-7-or-antrag-ohne-verbindlichkeit)
     - b. [Art. 7 OR Abs 2 Versendung von Tarifen, Preislisten...](#art-7-or-antrag-ohne-verbindlichkeit)
     - c. [Art. 7 OR Abs 3 Auslage von Waren](#art-7-or-antrag-ohne-verbindlichkeit)
     - d. [Art. 6 OR Stillschweigende Annahme](#art-6-or-vertragsschluss-durch-schweigen)
 3. **Vertragsmängel**
-    - a. **Nichtigkeitsgründe**
-        - I.[Formmängel](#nichtigkeitsgründe-formmangel)
-
+  - a. [Üngültigkeitsgründe](#ungültigkeitsgründe)
 
 ---
 ---
@@ -197,6 +195,8 @@ Der Vertrauensschutz besagt, dass eine Partei im Rechtsverkehr darauf vertrauen 
 ---
 # Art. 6 OR Vertragsschluss durch Schweigen
 
+**Grundsatz**: wer schweigt, scheint nicht zuzustimmen
+
 ## **Rechtsnorm**  
 **Art. 6 OR**  
 Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine ausdrückliche Annahme nicht zu erwarten, so gilt der Vertrag als abgeschlossen, wenn der Antrag nicht binnen angemessener Frist abgelehnt wird.
@@ -237,8 +237,11 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
     - [Art. 11 OR Formvorschriften für Verträge](#art-11-or-formvorschriften-für-verträge)
 
 - **Einfache Schriftlichkeit**
-    - Art. 13 - 15 OR
-
+    - [Art. 13 - 15 OR](#einfache-schriftlichkeit-art-13-15-or)
+- **Qualifizierte Schriftlichkeit**
+    - Konsumkredit, Testament
+- **öffentliche Beurkundung**
+    - Grundstückkauf, Bürgschaft
 - **Vertraglich vorbehaltene Form**
     - vertraglich vorbehaltene Form bedeutet, dass die Parteien für den Abschluss eines Vertrags freiwillig eine bestimmte Form (z. B. Schriftlichkeit) vereinbaren, obwohl das Gesetz für diesen Vertrag keine bestimmte Form vorschreibt. 
     - [Art. 16 OR Formvorbehalt und dessen Wirkung](#art-16-or-formvorbehalt-und-dessen-wirkung)
@@ -279,6 +282,32 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
   - Ein Grundstückverkauf, der ohne öffentliche Beurkundung abgeschlossen wurde, ist ungültig.
 
 
+---
+---
+# Einfache Schriftlichkeit Art. 13-15 OR
+## **Art. 13 OR – Schriftlichkeit**
+
+### **Rechtsnorm**  
+1. Ein Vertrag, für den die schriftliche Form gesetzlich vorgeschrieben ist, muss die **Unterschriften aller Personen** tragen, die durch ihn verpflichtet werden sollen.
+
+
+## **Art. 14 OR – Unterschrift**
+
+### **Rechtsnorm**  
+1. Die **Unterschrift** ist eigenhändig zu schreiben.  
+2. Eine Nachbildung der eigenhändigen Schrift auf mechanischem Wege (z. B. Stempel, Druck) wird nur dann als ausreichend anerkannt, wenn dies im Verkehr üblich ist, insbesondere bei Wertpapieren, die in großer Zahl ausgegeben werden.  
+2bis. Der eigenhändigen Unterschrift gleichgestellt ist die mit einem **qualifizierten Zeitstempel verbundene elektronische Signatur** gemäß Bundesgesetz über die elektronische Signatur.  
+3. Für eine blinde Person ist die Unterschrift nur dann verbindlich, wenn sie **beglaubigt** ist oder nachgewiesen wird, dass sie den Inhalt der Urkunde zur Zeit der Unterzeichnung kannte.
+
+
+## **Art. 15 OR – Unterschrift durch Handzeichen oder öffentliche Beurkundung**
+
+### **Rechtsnorm**  
+1. Kann eine Person **nicht unterschreiben** (z. B. wegen körperlicher Einschränkungen), so darf die Unterschrift ersetzt werden durch:  
+   - ein **beglaubigtes Handzeichen** (z. B. ein Fingerabdruck), oder  
+   - eine **öffentliche Beurkundung**.  
+2. Diese Regelung gilt mit Vorbehalt der besonderen Bestimmungen für den **Wechsel**.
+
 
 ---
 ---
@@ -300,12 +329,118 @@ Folgende Artikel müssen beim Vertragsschluss erfüllt sein:
   - A und B einigen sich mündlich über den Kauf eines Autos und vereinbaren, den Vertrag schriftlich zu fixieren. Ohne schriftliche Abfassung wird vermutet, dass sie sich noch nicht verpflichten wollen.
 
 
-
 ### **2. Schriftform ohne nähere Angaben (Abs. 2)**  
-- Wird lediglich eine **schriftliche Form** vereinbart, ohne weitere Details festzulegen, gelten die Voraussetzungen der **gesetzlich vorgeschriebenen Schriftlichkeit**:  
+- Wird lediglich eine **schriftliche Form** vereinbart, ohne weitere Details festzulegen, gelten die Voraussetzungen der [einfachen Schriftlichkeit](#einfache-schriftlichkeit-art-13-15-or):  
   - Die Urkunde muss den Vertragsinhalt vollständig wiedergeben.  
   - Die Unterschrift aller verpflichteten Parteien ist erforderlich (Art. 13 OR).  
 - **Beispiel:**  
   - A und B vereinbaren, den Vertrag „schriftlich“ zu schließen. Die Schriftform wird erst dann erfüllt, wenn beide unterschrieben haben.
 
+---
+---
+# **Art. 19 OR Vertragsfreiheit und Schranken**
 
+## **Rechtsnorm**  
+1. Der Inhalt des Vertrages kann innerhalb der Schranken des Gesetzes beliebig festgestellt werden.  
+2. Von den gesetzlichen Vorschriften abweichende Vereinbarungen sind nur zulässig, wo das Gesetz nicht eine unabänderliche Vorschrift aufstellt oder die Abweichung nicht einen Verstoss gegen die öffentliche Ordnung, gegen die guten Sitten oder gegen das Recht der Persönlichkeit in sich schliesst.
+
+
+
+## **Tatbestände von Art. 19 OR**
+
+### **1. Grundsatz der Vertragsfreiheit (Abs. 1)**  
+- Die Parteien können den Inhalt des Vertrages grundsätzlich **frei bestimmen** (z. B. Kaufpreis, Leistungen, Rechte und Pflichten).  
+- Es besteht kein gesetzliches Muster für jeden Vertrag, solange die grundlegenden Elemente des Vertragsschlusses eingehalten werden.  
+
+
+
+### **2. Schranken der Vertragsfreiheit (Abs. 2)**  
+Die Freiheit der Parteien, vertragliche Abmachungen zu treffen, wird durch gesetzliche Schranken begrenzt. Eine Vereinbarung ist unzulässig, wenn:  
+1. **Unabänderliche gesetzliche Vorschriften:**  
+   - Gesetze enthalten teils **zwingende Bestimmungen**, von denen nicht abgewichen werden darf (z. B. Kündigungsschutz, Mietrecht).  
+2. **Verstoss gegen die öffentliche Ordnung:**  
+   - Der Vertrag darf nicht gegen grundlegende Prinzipien der Rechtsordnung verstoßen (z. B. Vereinbarung eines Auftrags zur Begehung einer Straftat).  
+3. **Verstoss gegen die guten Sitten:**  
+   - Ein Vertrag ist sittenwidrig, wenn er gegen das Anstandsgefühl und die ethischen Grundwerte verstößt (z. B. Wucher, Zwang).  
+4. **Verstoss gegen Persönlichkeitsrechte:**  
+   - Ein Vertrag darf keine Bestimmungen enthalten, die die Würde, Freiheit oder Autonomie einer Person verletzen (z. B. Knebelverträge, persönliche Erniedrigung).
+
+
+## **Beispiele für erlaubte und unzulässige Vertragsinhalte:**
+
+### **Erlaubte Vertragsinhalte:**  
+- A und B schließen einen Vertrag über den Verkauf eines Gemäldes. Sie einigen sich auf einen Preis und die Lieferbedingungen – dies ist innerhalb der Vertragsfreiheit zulässig.  
+
+### **Unzulässige Vertragsinhalte:**  
+1. **Verstoß gegen Persönlichkeitsrechte:**  
+   - Ein Vertrag, der A verpflichtet, jeden Tag für B rund um die Uhr verfügbar zu sein, verstößt gegen das Recht auf persönliche Freiheit und ist unzulässig.  
+2. **Verstoß gegen die guten Sitten:**  
+   - Ein Vertrag, in dem B einen extrem überhöhten Preis für eine Dienstleistung aufgrund von Zwang akzeptiert (Wucher), ist sittenwidrig.  
+
+
+# **Art. 20 OR – Nichtigkeit von Verträgen**
+
+## **Rechtsnorm**  
+1. Ein Vertrag, der einen **unmöglichen**, **widerrechtlichen** Inhalt hat oder gegen die **guten Sitten** verstösst, ist **nichtig**.  
+2. Betrifft aber der Mangel bloss **einzelne Teile** des Vertrages, so sind nur diese nichtig, sobald nicht anzunehmen ist, dass er ohne den nichtigen Teil überhaupt nicht geschlossen worden wäre.
+
+---
+
+## **Tatbestände von Art. 20 OR**
+
+### **1. Vertrag mit unmöglichem Inhalt (Abs. 1)**  
+- Der Inhalt des Vertrages muss objektiv erfüllbar sein. Ein Vertrag ist **nichtig**, wenn die vereinbarte Leistung bereits im Zeitpunkt des Vertragsschlusses unmöglich war.  
+- **Beispiel:**  
+  - A verkauft B ein Gemälde, das bereits vor Vertragsabschluss zerstört wurde. Da die Leistung unmöglich ist, ist der Vertrag nichtig.
+
+---
+
+### **2. Vertrag mit widerrechtlichem Inhalt (Abs. 1)**  
+- Der Vertrag darf nicht gegen gesetzliche Vorschriften oder Verbote verstoßen.  
+- **Beispiel:**  
+  - Ein Vertrag zur Lieferung illegaler Betäubungsmittel ist widerrechtlich und daher nichtig.
+
+---
+
+### **3. Vertrag, der gegen die guten Sitten verstösst (Abs. 1)**  
+- Der Vertrag ist sittenwidrig, wenn er gegen das allgemeine Anstandsgefühl und die ethischen Werte verstößt.  
+- **Beispiel:**  
+  - Ein Vertrag, der jemanden dazu verpflichtet, unter Androhung von Nachteilen eine Handlung zu unterlassen, kann sittenwidrig sein (z. B. Knebelverträge).
+
+---
+
+### **4. Teilweise Nichtigkeit (Abs. 2)**  
+- Wenn der Mangel nur einen **Teil des Vertrages** betrifft, bleibt der übrige Vertragsteil gültig, sofern angenommen werden kann, dass die Parteien den Vertrag auch ohne den nichtigen Teil geschlossen hätten.  
+- **Beispiel:**  
+  - Ein Arbeitsvertrag enthält eine unzulässige Klausel, die den Arbeitnehmer verpflichtet, Überstunden ohne Lohn zu leisten. Nur diese Klausel ist nichtig, der Rest des Vertrags bleibt gültig.
+
+---
+
+## **Rechtsfolgen von Art. 20 OR**  
+
+### **1. Gesamtnichtigkeit:**  
+- Der gesamte Vertrag ist nichtig, wenn der Mangel den gesamten Inhalt betrifft (z. B. bei völliger Unmöglichkeit oder einem sittenwidrigen Hauptzweck).  
+
+### **2. Teilnichtigkeit:**  
+- Der Vertrag bleibt in den übrigen Teilen gültig, wenn der nichtige Teil nicht ausschlaggebend für den Vertragsschluss war.  
+
+
+---
+---
+# Nichtigkeitsgründe Inhaltsmangel
+- Unmöglichkeit, Wiederrechtlichkeit, Sittenwiedrigkeit
+- [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
+- [Art. 20 Abs. 1 OR Unmöglichkeit](#art-20-or--nichtigkeit-von-verträgen)
+
+
+
+---
+---
+# Ungültigkeitsgründe
+  - **Nichtigkeit bei**
+    - Fehlende Handlungsfähigkeit
+    - [Formmängel](#nichtigkeitsgründe-formmangel)
+    - [Inhaltsmängel](#nichtigkeitsgründe-inhaltsmangel)
+  - **Anfechtbarkeit bei**
+    - Übervorteilung
+    - Willensmängel
