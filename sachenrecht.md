@@ -393,7 +393,7 @@ Kausalitätsprinzip -> dingliches Recht nur bei gültigem Grundgeschäft.
 1. **Gültiger Rechtsgrund (Veräusserungsvertrag)**:  
    Ein Vertrag oder ein anderes Rechtsgeschäft, das den Eigentumsübergang rechtfertigt (z. B. Kauf, Schenkung).  
 2. **Besitzübertragung**:  
-   Der Besitz muss auf den Erwerber übergehen (Art. 922 ZGB). Dies kann physisch oder durch Besitzanweisung, Besitzkonstitut etc. geschehen.
+   Der Besitz muss auf den Erwerber übergehen via [Art. 922 ZGB mit Uebergabe](#art-922-abs-1-zgb-übertragung-des-besitzes) oder via [Art. 924 ZGB ohne Uebergabe](#art-924-zgb-besitzübertragung-ohne-übergabe). Dies kann physisch oder durch Besitzanweisung, Besitzkonstitut etc. geschehen.
 3. **Veräusserungsbefungnis**: Eigentümer oder bevollmächtigt
 
 
