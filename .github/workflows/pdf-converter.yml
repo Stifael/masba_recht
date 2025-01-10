@@ -24,7 +24,7 @@ jobs:
           mkdir -p output
           for file in $(find . -name "*.md"); do
             filename=$(basename "$file" .md)
-            pandoc "$file" -o "output/$filename.pdf" --pdf-engine=xelatex
+            pandoc "$file" -o "output/$filename.pdf" --pdf-engine=xelatex --toc --metadata link-citations=true
           done
 
       - name: Upload PDF files as artifacts
