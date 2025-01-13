@@ -29,3 +29,7 @@ Beispiel: Art. 44 Abs. 1 OR Reduktion der Ersatzpflicht
 
 # Kindesalter Urteilsfähigkeit 
 Bereich?
+
+# schaden
+Schaden im OR bezieht sich auf aktiv-passiv schaden.
+Ist das gleich in Or 55 / 58?

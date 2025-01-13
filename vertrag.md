@@ -377,14 +377,15 @@ Die Freiheit der Parteien, vertragliche Abmachungen zu treffen, wird durch geset
 2. **Verstoß gegen die guten Sitten:**  
    - Ein Vertrag, in dem B einen extrem überhöhten Preis für eine Dienstleistung aufgrund von Zwang akzeptiert (Wucher), ist sittenwidrig.  
 
-
+---
+---
 # **Art. 20 OR – Nichtigkeit von Verträgen**
 
 ## **Rechtsnorm**  
 1. Ein Vertrag, der einen **unmöglichen**, **widerrechtlichen** Inhalt hat oder gegen die **guten Sitten** verstösst, ist **nichtig**.  
 2. Betrifft aber der Mangel bloss **einzelne Teile** des Vertrages, so sind nur diese nichtig, sobald nicht anzunehmen ist, dass er ohne den nichtigen Teil überhaupt nicht geschlossen worden wäre.
 
----
+
 
 ## **Tatbestände von Art. 20 OR**
 
@@ -393,28 +394,26 @@ Die Freiheit der Parteien, vertragliche Abmachungen zu treffen, wird durch geset
 - **Beispiel:**  
   - A verkauft B ein Gemälde, das bereits vor Vertragsabschluss zerstört wurde. Da die Leistung unmöglich ist, ist der Vertrag nichtig.
 
----
 
 ### **2. Vertrag mit widerrechtlichem Inhalt (Abs. 1)**  
-- Der Vertrag darf nicht gegen gesetzliche Vorschriften oder Verbote verstoßen.  
+- Der Vertrag darf nicht gegen gesetzliche Vorschriften oder Verbote verstossen.  
 - **Beispiel:**  
   - Ein Vertrag zur Lieferung illegaler Betäubungsmittel ist widerrechtlich und daher nichtig.
+  - Art. 100 Abs. 1 OR, Art. 361/362 OR, Art. 404 Abs. 1 OR
 
----
 
 ### **3. Vertrag, der gegen die guten Sitten verstösst (Abs. 1)**  
 - Der Vertrag ist sittenwidrig, wenn er gegen das allgemeine Anstandsgefühl und die ethischen Werte verstößt.  
 - **Beispiel:**  
   - Ein Vertrag, der jemanden dazu verpflichtet, unter Androhung von Nachteilen eine Handlung zu unterlassen, kann sittenwidrig sein (z. B. Knebelverträge).
+  - Art. 27 Abs. 2 Freiheitsbeschränkung, Verträge mit sexuellen Leistungen, ...
 
----
 
 ### **4. Teilweise Nichtigkeit (Abs. 2)**  
 - Wenn der Mangel nur einen **Teil des Vertrages** betrifft, bleibt der übrige Vertragsteil gültig, sofern angenommen werden kann, dass die Parteien den Vertrag auch ohne den nichtigen Teil geschlossen hätten.  
 - **Beispiel:**  
   - Ein Arbeitsvertrag enthält eine unzulässige Klausel, die den Arbeitnehmer verpflichtet, Überstunden ohne Lohn zu leisten. Nur diese Klausel ist nichtig, der Rest des Vertrags bleibt gültig.
 
----
 
 ## **Rechtsfolgen von Art. 20 OR**  
 
@@ -424,13 +423,165 @@ Die Freiheit der Parteien, vertragliche Abmachungen zu treffen, wird durch geset
 ### **2. Teilnichtigkeit:**  
 - Der Vertrag bleibt in den übrigen Teilen gültig, wenn der nichtige Teil nicht ausschlaggebend für den Vertragsschluss war.  
 
+---
+---
+# **Art. 21 OR Übervorteilung**
+
+## **Rechtsnorm**  
+**Art. 21 OR**  
+1. Wird ein **offenbares Missverhältnis** zwischen der Leistung und der Gegenleistung durch einen Vertrag begründet, dessen Abschluss von dem einen Teil durch **Ausbeutung** der **Notlage**, der **Unerfahrenheit** oder des **Leichtsinns** des andern herbeigeführt worden ist, so kann der Verletzte innerhalb Jahresfrist erklären, dass er den Vertrag nicht halte, und das schon Geleistete zurückverlangen.  
+2. Die Jahresfrist beginnt mit dem Abschluss des Vertrages.
+
+## **Tatbestände von Art. 21 OR – Übervorteilung**
+
+Ein Vertrag ist nach **Art. 21 OR** anfechtbar, wenn folgende Tatbestände erfüllt sind:
+
+
+### **1. Offenbares Missverhältnis zwischen Leistung und Gegenleistung**  
+- Es muss ein **objektives Ungleichgewicht** zwischen der Leistung und der Gegenleistung bestehen.  
+- Der Unterschied muss so groß sein, dass er nach den üblichen Maßstäben klar auffällt.  
+- **Beispiel:**  
+  - Ein Haus im Marktwert von 500'000 CHF wird für 100'000 CHF verkauft.
+
+
+### **2. Schwächelage des übervorteilten Vertragspartners**  
+Die benachteiligte Person muss sich in einer Situation befinden, in der sie nicht frei und vernünftig verhandeln konnte. Diese Schwächelage kann aus folgenden Gründen bestehen:  
+
+- **Notlage:**  
+  - Die Person befindet sich in einer existenziellen Krise (z. B. finanzielle oder gesundheitliche Not).  
+  - **Beispiel:** Jemand benötigt dringend Geld für eine teure Operation.  
+
+- **Unerfahrenheit:**  
+  - Die Person verfügt nicht über das notwendige Wissen oder Erfahrung, um den Vertragsinhalt zu verstehen.  
+  - **Beispiel:** Ein junger Mensch unterschreibt einen überhöhten Leasingvertrag, weil er nicht die Kosten versteht.  
+
+- **Leichtsinn:**  
+  - Die Person handelt unüberlegt oder impulsiv und erkennt die Konsequenzen des Vertrags nicht.  
+  - **Beispiel:** Eine Person kauft spontan ein überteuertes Investmentprodukt ohne Abwägung.
+
+
+### **3. Ausbeutung der Schwächelage durch den anderen Vertragspartner**  
+- Der begünstigte Vertragspartner muss die Schwäche des anderen bewusst **ausgenutzt** haben, um einen Vorteil zu erlangen.  
+- Die starke Partei muss von der Schwäche des anderen gewusst haben und diese gezielt für den Vertragsabschluss verwendet haben.  
+- **Beispiel:**  
+  - Ein Kreditgeber bietet einem verschuldeten Kunden einen Kredit zu Wucherzinsen an und weiß, dass der Kunde keine Alternative hat.
+
+### **4. Einhaltung der Jahresfrist**  
+- Der übervorteilte Vertragspartner muss den Vertrag innerhalb **eines Jahres** nach Vertragsschluss anfechten.  
+- Nach Ablauf der Frist bleibt der Vertrag gültig.
+
+
+# **Rechtsfolge:**  
+- Der übervorteilte Vertragspartner kann den Vertrag **rückwirkend anfechten** und bereits Geleistetes zurückfordern.  
+- Wird der Vertrag erfolgreich angefochten, ist er **nichtig**.
+
+
+# **Art. 24 OR Wesentlicher Irrtum**
+
+## **Rechtsnorm**  
+**Art. 24 OR**  
+1. Der Irrtum ist namentlich in folgenden Fällen ein wesentlicher:  
+   1. Wenn der Irrende einen **anderen Vertrag** eingehen wollte als denjenigen, für den er seine Zustimmung erklärt hat.  
+   2. Wenn der Wille des Irrenden auf eine **andere Sache** oder, wo der Vertrag mit Rücksicht auf eine bestimmte Person abgeschlossen wurde, auf eine **andere Person** gerichtet war, als er erklärt hat.  
+   3. Wenn der Irrende eine Leistung von **erheblich größerem Umfang** versprochen hat oder eine Gegenleistung von **erheblich geringerem Umfang** sich hat versprechen lassen, als es sein Wille war.  
+   4. Wenn der Irrtum einen bestimmten **Sachverhalt** betraf, der vom Irrenden nach **Treu und Glauben** im Geschäftsverkehr als eine **notwendige Grundlage des Vertrages** betrachtet wurde.  
+2. Bezieht sich dagegen der Irrtum nur auf den **Beweggrund** zum Vertragsabschluss, so ist er nicht wesentlich.  
+3. Blosse **Rechnungsfehler** hindern die Verbindlichkeit des Vertrages nicht, sind aber zu berichtigen.
+
+
+## **Tatbestände des wesentlichen Irrtums nach Art. 24 OR**
+
+### **1. Irrtum über die Art des Vertrages (Abs. 1 Ziff. 1)**  
+- Der Irrende wollte einen **anderen Vertragstyp** abschließen als denjenigen, dem er zugestimmt hat.  
+- **Beispiel:**  
+  - A glaubt, er schließt einen Mietvertrag ab, unterschreibt aber tatsächlich einen Kaufvertrag.
+
+
+### **2. Irrtum über den Gegenstand oder die Person (Abs. 1 Ziff. 2)**  
+- Der Irrende wollte sich auf eine **andere Sache** oder **Person** beziehen, als es in der Erklärung festgehalten wurde.  
+- **Beispiel:**  
+  - A bestellt von B ein Bild und denkt dabei an ein bestimmtes Gemälde, doch B versteht etwas anderes und liefert ein anderes Gemälde.
+
+
+
+### **3. Irrtum über den Umfang der Leistung oder Gegenleistung (Abs. 1 Ziff. 3)**  
+- Der Irrende verspricht eine **wesentlich größere Leistung** oder akzeptiert eine **wesentlich geringere Gegenleistung**, als es seiner Absicht entsprach.  
+- **Beispiel:**  
+  - A verkauft B ein Auto für 1'000 CHF, wollte aber eigentlich 10'000 CHF verlangen, vertippt sich jedoch bei der Preisangabe im Vertrag.
+
+
+
+### **4. Grundlagenirrtum (Abs. 1 Ziff. 4)**  
+
+#### **Definition:**  
+Der **Grundlagenirrtum** ist ein **wesentlicher Irrtum**, der einen Irrtum über einen bestimmten Sachverhalt betrifft, den der Irrende als **notwendige Grundlage des Vertrags** betrachtet hat. Der Vertrag kann angefochten werden, wenn dieser Irrtum subjektiv und objektiv wesentlich ist.
+
+
+#### **Tatbestandselemente des Grundlagenirrtums:**
+
+##### **1. Subjektive Wesentlichkeit (notwendige Grundlage des Vertrags)**  
+- Der Irrende betrachtet den Sachverhalt als **unerlässliche Grundlage** für den Vertragsschluss.  
+- Ohne die Annahme des falschen Sachverhalts hätte der Irrende den Vertrag nicht abgeschlossen.  
+- **Beispiel:**  
+  - A kauft ein Grundstück, weil er annimmt, dass dort Wohngebäude gebaut werden dürfen. Ohne diese Annahme hätte A das Grundstück nicht gekauft.
+
+
+##### **2. Objektive Wesentlichkeit (nach Treu und Glauben im Geschäftsverkehr)**  
+- Der Sachverhalt muss auch nach den Maßstäben von **Treu und Glauben im Geschäftsverkehr** von einer solchen Bedeutung sein, dass der Vertragspartner damit rechnen musste, dass der Irrende diesen Sachverhalt für wesentlich hält.  
+- **Beispiel:**  
+  - Es ist objektiv verständlich, dass A davon ausgeht, dass das Grundstück für Wohngebäude genutzt werden darf.
+
+##### **3. Erkennbarkeit des Irrtums (umstritten)**  
+- Nach einer Ansicht in der Lehre muss der Vertragspartner erkennen können, dass der Irrende diesen Sachverhalt als wesentliche Grundlage ansieht.  
+- Andere Meinungen sehen die Erkennbarkeit nicht als zwingende Voraussetzung.
+
+#### **Beispiele für den Grundlagenirrtum:**  
+
+##### **1. Grundlagenirrtum (anfechtbarer Vertrag)**  
+- **Situation:** A kauft von B eine wertvolle Vase, weil er davon ausgeht, dass es sich um ein antikes Original handelt. Nach dem Kauf stellt sich heraus, dass es nur eine Kopie ist.  
+- **Beurteilung:** Die Echtheit der Vase bildet eine **wesentliche Grundlage** des Kaufvertrages. Der Vertrag kann angefochten werden.
+
+##### **2. Kein Grundlagenirrtum (gewöhnlicher Motivirrtum)**  
+- **Situation:** A kauft eine Aktie, weil er glaubt, dass der Kurs steigen wird. Der Kurs fällt jedoch.  
+- **Beurteilung:** Der Irrtum über die Gewinnerwartung ist nur ein **Motivirrtum** und begründet **kein Anfechtungsrecht**, da sich die falsche Vorstellung auf den Beweggrund bezieht, nicht auf den Vertragsgegenstand selbst.
+
+
+
+#### **Rechtsfolgen des Grundlagenirrtums:**  
+- Der Vertrag kann bei Vorliegen eines Grundlagenirrtums **angefochten** und rückabgewickelt werden.  
+- Erfolgt keine Anfechtung innerhalb der gesetzlichen Frist, bleibt der Vertrag gültig.  
+- Der Vertragspartner kann sich gegen die Anfechtung wehren, wenn er nachweist, dass der Irrtum nicht wesentlich war.
+
+
+## **Nicht wesentliche Irrtümer:**  
+
+### **1. Motivirrtum (Abs. 2)**  
+- Der Irrtum über den **Beweggrund** des Vertragsabschlusses ist nicht wesentlich und führt nicht zur Anfechtbarkeit des Vertrags.  
+- **Beispiel:**  
+  - A kauft ein Bild, weil er glaubt, dass es einen historischen Wert hat. Nach dem Kauf stellt sich heraus, dass das Bild wertlos ist. Dies ist ein Motivirrtum und begründet keine Vertragsaufhebung.
+
+### **2. Rechnungsfehler (Abs. 3)**  
+- **Rechnungsfehler** (z. B. falsch zusammengerechneter Preis) führen nicht zur Ungültigkeit des Vertrags, sondern sind lediglich zu berichtigen.
+
+
+## **Rechtsfolgen eines wesentlichen Irrtums:**  
+- Bei Vorliegen eines wesentlichen Irrtums kann der Vertrag **angefochten** und für **nichtig** erklärt werden.  
+- Bei einem nicht wesentlichen Irrtum bleibt der Vertrag grundsätzlich bestehen.
+
 
 ---
 ---
 # Nichtigkeitsgründe Inhaltsmangel
 - Unmöglichkeit, Wiederrechtlichkeit, Sittenwiedrigkeit
 - [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
-- [Art. 20 Abs. 1 OR Unmöglichkeit](#art-20-or--nichtigkeit-von-verträgen)
+- [Art. 20 Abs. 1 OR Unmöglichkeit-Sitten](#art-20-or--nichtigkeit-von-verträgen)
+
+
+---
+---
+# Anfechtungsgründe Willensmängel
+- [Art. 24 OR Wesentlicher Irrtum](#art-24-or-wesentlicher-irrtum)
+
 
 
 
@@ -442,5 +593,8 @@ Die Freiheit der Parteien, vertragliche Abmachungen zu treffen, wird durch geset
     - [Formmängel](#nichtigkeitsgründe-formmangel)
     - [Inhaltsmängel](#nichtigkeitsgründe-inhaltsmangel)
   - **Anfechtbarkeit bei**
-    - Übervorteilung
-    - Willensmängel
+    - [Art. 21 OR Übervorteilung](#art-21-or-übervorteilung)
+    - [Willensmängel](#anfechtungsgründe-willensmängel)
+
+
+
