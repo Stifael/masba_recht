@@ -1052,6 +1052,7 @@ Die Vertragserfüllung regelt, **wie, wo, wann und durch wen** die geschuldete L
 
 ### **2. Ansetzung einer angemessenen Nachfrist**  
 - Der Gläubiger muss dem Schuldner eine **Nachfrist** setzen. Diese muss dem Schuldner eine realistische Möglichkeit bieten, seine Leistung zu erbringen.
+- Ausnahme: [Art. 108 OR Fälle ohne Nachfristsetzung](#art-108-or-fälle-ohne-nachfristsetzung)
 
 ### **3. Wahlrecht des Gläubigers nach Fristablauf**  
 - Nach Ablauf der Nachfrist kann der Gläubiger wählen zwischen:  
