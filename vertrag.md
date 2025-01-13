@@ -227,6 +227,100 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
   - Ein Weinhändler erhält ein Angebot zur Lieferung einer großen Bestellung und lehnt es nicht ab. Nach Ablauf einer angemessenen Frist darf der Anbieter davon ausgehen, dass der Händler das Angebot annimmt.
 
 
+# **Art. 29 OR Drohung (Furchterregung)**
+
+## **Rechtsnorm**  
+**Art. 29 OR**  
+1. Ist ein Vertragschliessender von dem anderen oder von einem Dritten **widerrechtlich durch Erregung gegründeter Furcht** zur Eingehung eines Vertrages bestimmt worden, so ist der Vertrag für den Bedrohten **unverbindlich**.  
+2. Ist die **Drohung** von einem Dritten ausgegangen, so hat, wo es der Billigkeit entspricht, der Bedrohte, der den Vertrag nicht halten will, dem anderen, wenn dieser die Drohung **weder gekannt hat noch hätte kennen sollen**, **Entschädigung** zu leisten.
+
+---
+
+## **Tatbestandselemente von Art. 29 OR Drohung**
+
+### **1. Widerrechtliche Drohung**  
+- Es muss eine **Drohung** vorliegen, die den Bedrohten zur Vertragsunterzeichnung bewegt hat.  
+- Die Drohung kann in Form von:  
+  - **Gewaltandrohung** (z. B. physische Gewalt),  
+  - Androhung eines **empfindlichen Nachteils** (z. B. Rufschädigung) erfolgen.  
+- **Widerrechtlich** ist die Drohung, wenn sie:  
+  - gegen das Gesetz verstößt,  
+  - gegen Treu und Glauben verstößt,  
+  - den Bedrohten unverhältnismäßig in die Enge treibt.  
+
+---
+
+### **2. Begründete Furcht (subjektiv und objektiv)**  
+- Die Drohung muss beim Bedrohten eine **Furcht vor erheblichem Nachteil** auslösen.  
+  - **Subjektiv:** Der Bedrohte hat sich tatsächlich gefürchtet.  
+  - **Objektiv:** Eine vernünftige Person in der gleichen Situation hätte sich ebenfalls gefürchtet.  
+- **Beispiel:**  
+  - A droht B damit, dessen Familie zu schädigen, wenn B den Vertrag nicht unterzeichnet. Eine solche Drohung erzeugt verständlicherweise Furcht.
+
+---
+
+### **3. Kausalität zwischen Drohung und Vertragsschluss**  
+- Der Bedrohte muss den Vertrag **nur deshalb** abgeschlossen haben, weil er sich durch die Drohung dazu genötigt fühlte.  
+- **Beispiel:**  
+  - B unterschreibt nur, weil er Angst vor der angedrohten Rufschädigung hat. Ohne diese Drohung hätte er nicht zugestimmt.
+
+---
+
+### **4. Drohung durch Dritte (Abs. 2)**  
+- Die Drohung kann auch von einer **dritten Person** ausgehen.  
+- In diesem Fall ist der Vertrag nur unverbindlich, wenn der andere Vertragspartner:  
+  - von der Drohung wusste oder hätte wissen müssen.  
+  - War der Vertragspartner ahnungslos, muss ihm der Bedrohte gegebenenfalls eine **Entschädigung** leisten.  
+- **Beispiel:**  
+  - C (ein Dritter) droht B, damit B einen Vertrag mit A abschließt. Wenn A nichts von der Drohung wusste, bleibt der Vertrag zwar unverbindlich, aber A kann unter Umständen eine Entschädigung verlangen.
+
+---
+
+## **Rechtsfolgen:**  
+1. **Anfechtbarkeit des Vertrags:**  
+   - Der Bedrohte kann den Vertrag wegen der Drohung **anfechten** und rückabwickeln.  
+2. **Entschädigung bei Drohung durch Dritte:**  
+   - Wenn der Vertragspartner die Drohung nicht kannte und nicht kennen musste, kann ihm eine **billige Entschädigung** zustehen.  
+3. **Verjährung:**  
+   - Die Anfechtung muss innerhalb **eines Jahres** ab Kenntnis der Drohung erfolgen.
+
+---
+
+## **Beispiele für Drohung:**  
+- **Beispiel 1:** A droht B mit einer Anzeige, wenn B den Vertrag nicht unterschreibt, obwohl B nichts Verbotenes getan hat. B kann den Vertrag anfechten.  
+- **Beispiel 2:** Ein Dritter droht C, damit C einen Vertrag mit A abschließt. Wenn A nichts davon wusste, kann C den Vertrag anfechten, muss aber A unter Umständen entschädigen.
+
+
+---
+---
+# Ungültigkeitsgründe
+  - **Nichtigkeit bei**
+    - Fehlende Handlungsfähigkeit
+    - [Formmängel](#nichtigkeitsgründe-formmangel)
+    - [Inhaltsmängel](#nichtigkeitsgründe-inhaltsmangel)
+  - **Anfechtbarkeit bei**
+    - [Art. 21 OR Übervorteilung](#art-21-or-übervorteilung)
+    - [Willensmängel](#anfechtungsgründe-willensmängel)
+
+
+
+
+---
+---
+# Nichtigkeitsgründe Inhaltsmangel
+- Unmöglichkeit, Wiederrechtlichkeit, Sittenwiedrigkeit
+- [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
+- [Art. 20 Abs. 1 OR Unmöglichkeit-Sitten](#art-20-or--nichtigkeit-von-verträgen)
+
+
+---
+---
+# Anfechtungsgründe Willensmängel
+- [Art. 24 OR Wesentlicher Irrtum](#art-24-or-wesentlicher-irrtum)
+- [Art. 28 OR Täuschung](#art-28-or-absichtliche-täuschung)
+- [Art. 29 OR Drohung](#art-29-or-drohung-furchterregung)
+
+
 ---
 ---
 # Nichtigkeitsgründe Formmangel
@@ -569,32 +663,52 @@ Der **Grundlagenirrtum** ist ein **wesentlicher Irrtum**, der einen Irrtum über
 - Bei einem nicht wesentlichen Irrtum bleibt der Vertrag grundsätzlich bestehen.
 
 
----
----
-# Nichtigkeitsgründe Inhaltsmangel
-- Unmöglichkeit, Wiederrechtlichkeit, Sittenwiedrigkeit
-- [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
-- [Art. 20 Abs. 1 OR Unmöglichkeit-Sitten](#art-20-or--nichtigkeit-von-verträgen)
+# **Art. 28 OR Absichtliche Täuschung**
+
+## **Rechtsnorm**  
+**Art. 28 OR**  
+1. Ist ein Vertragschliessender durch **absichtliche Täuschung** seitens des anderen zu dem Vertragsabschluss verleitet worden, so ist der Vertrag für ihn auch dann **nicht verbindlich**, wenn der erregte Irrtum **kein wesentlicher** war.  
+2. Die von einem **Dritten** verübte absichtliche Täuschung hindert die Verbindlichkeit für den Getäuschten nur, wenn der andere zur Zeit des Vertragsabschlusses die Täuschung **gekannt** hat oder **hätte kennen sollen**.
 
 
----
----
-# Anfechtungsgründe Willensmängel
-- [Art. 24 OR Wesentlicher Irrtum](#art-24-or-wesentlicher-irrtum)
+## **Tatbestandselemente der absichtlichen Täuschung:**
+
+### **1. Täuschungshandlung**  
+- Der Täuschende muss den anderen durch eine **aktive Täuschung** (z. B. falsche Aussagen) oder durch das **Verschweigen wesentlicher Tatsachen** bewusst in die Irre geführt haben.  
+- **Beispiel:**  
+  - A verkauft B ein Auto und verschweigt, dass der Motor defekt ist, obwohl A dies weiß.
 
 
+### **2. Absicht der Täuschung**  
+- Die Täuschung muss **vorsätzlich** erfolgt sein. Der Täuschende muss also bewusst falsche Informationen gegeben oder wesentliche Informationen verschwiegen haben, um den Vertragspartner zu einer bestimmten Handlung zu bewegen.  
 
 
----
----
-# Ungültigkeitsgründe
-  - **Nichtigkeit bei**
-    - Fehlende Handlungsfähigkeit
-    - [Formmängel](#nichtigkeitsgründe-formmangel)
-    - [Inhaltsmängel](#nichtigkeitsgründe-inhaltsmangel)
-  - **Anfechtbarkeit bei**
-    - [Art. 21 OR Übervorteilung](#art-21-or-übervorteilung)
-    - [Willensmängel](#anfechtungsgründe-willensmängel)
+### **3. Irrtum des Getäuschten**  
+- Der Getäuschte muss sich tatsächlich in einem **Irrtum** über einen wichtigen Sachverhalt befunden haben, der durch die Täuschung verursacht wurde.  
+- **Hinweis:** Anders als beim **Grundlagenirrtum** nach Art. 24 OR muss der Irrtum **nicht wesentlich** sein.
 
+
+### **4. Kausalität zwischen Täuschung und Vertragsabschluss**  
+- Der Vertrag muss **nur deshalb abgeschlossen** worden sein, weil der Getäuschte aufgrund der Täuschung falsche Annahmen getroffen hat.
+
+
+### **5. Täuschung durch Dritte (Abs. 2)**  
+- Wird die Täuschung durch einen **Dritten** begangen, ist der Vertrag nur dann anfechtbar, wenn der Vertragspartner die Täuschung **gekannt** hat oder **hätte kennen müssen**.  
+- **Beispiel:**  
+  - Ein Vermittler täuscht den Käufer über den Zustand einer Immobilie. Der Vertrag bleibt gültig, wenn der Verkäufer nichts von der Täuschung wusste.
+
+
+## **Rechtsfolgen der absichtlichen Täuschung:**  
+1. **Anfechtbarkeit des Vertrags:**  
+   - Der Getäuschte kann den Vertrag **anfechten** und bereits Geleistetes zurückfordern.  
+2. **Verjährung:**  
+   - Die Anfechtung muss innerhalb von **einem Jahr** erfolgen, ab dem Zeitpunkt, an dem die Täuschung entdeckt wurde.  
+3. **Schadenersatzanspruch:**  
+   - Der Getäuschte kann zusätzlich **Schadenersatz** nach **Art. 41 OR** verlangen, wenn ihm durch die Täuschung ein Vermögensschaden entstanden ist.
+
+
+## **Beispiele für absichtliche Täuschung:**  
+- **Beispiel 1:** A verkauft B eine Antiquität und erklärt, dass es sich um ein Original handelt, obwohl er weiß, dass es eine Kopie ist. B kann den Vertrag wegen Täuschung anfechten.  
+- **Beispiel 2:** C verschweigt gegenüber D einen schweren Wasserschaden in einem Gebäude, obwohl dieser den Kaufpreis stark beeinflussen würde. Auch hier liegt eine absichtliche Täuschung vor.
 
 
