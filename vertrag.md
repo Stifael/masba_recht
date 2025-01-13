@@ -13,20 +13,20 @@
     - d. [Art. 6 OR Stillschweigende Annahme](#art-6-or-vertragsschluss-durch-schweigen)
 
 3. **Vertragsmängel**
-  - a. [Üngültigkeitsgründe](#ungültigkeitsgründe)
-  - b. [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
+    - a. [Üngültigkeitsgründe](#ungültigkeitsgründe)
+    - b. [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
 
 4. **Vertragserfuellung**
-  - [Modalitäten](#modalitäten-der-vertragserfüllung-person-ort-zeit-gegenstand)
+    - [Modalitäten](#modalitäten-der-vertragserfüllung-person-ort-zeit-gegenstand)
 
 5. **Nichterferfüllung** 
-  - [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
-  - [Schuldnerverzug](#schuldnerverzug)
-    - [Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen](#art-107108109-or-schuldnerverzug-bei-zweiseitigen-verträgen)
+    - [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
+    - [Schuldnerverzug](#schuldnerverzug)
+      - [Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen](#art-107108109-or-schuldnerverzug-bei-zweiseitigen-verträgen)
 
 5. **Haftung bei Leistungsstörungen**
-  - [Art. 97 OR  Allgemeine Regel bei Nichterfüllung](#art-97-or--allgemeine-regel-bei-nichterfüllung)
-    - [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
+    - [Art. 97 OR  Allgemeine Regel bei Nichterfüllung](#art-97-or--allgemeine-regel-bei-nichterfüllung)
+      - [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
 
 
 
