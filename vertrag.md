@@ -5,13 +5,34 @@
         - I. [Art 18 OR Abs 1 Natürlicher Konsens](#art-18-or-auslegung-von-verträgen-und-simulation)
         - II. [Normativer Konsens](#normativer-konsens-vertrauensprinzip)
         - III. [Art 2 Abs 1 OR Objektive-Subjektive Vertragspunkte](#art-2-or-vereinbarung-über-nebenpunkte)
+
 2. **Vertragsschluss Antrag und Annahme**
     - a. [Art. 7 OR Abs 1 Antrag ohne Verbindlichkeit](#art-7-or-antrag-ohne-verbindlichkeit)
     - b. [Art. 7 OR Abs 2 Versendung von Tarifen, Preislisten...](#art-7-or-antrag-ohne-verbindlichkeit)
     - c. [Art. 7 OR Abs 3 Auslage von Waren](#art-7-or-antrag-ohne-verbindlichkeit)
     - d. [Art. 6 OR Stillschweigende Annahme](#art-6-or-vertragsschluss-durch-schweigen)
+
 3. **Vertragsmängel**
   - a. [Üngültigkeitsgründe](#ungültigkeitsgründe)
+  - b. [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
+
+4. **Vertragserfuellung**
+  - [Modalitäten](#modalitäten-der-vertragserfüllung-person-ort-zeit-gegenstand)
+
+5. **Nichterferfüllung** 
+  - [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
+  - [Schuldnerverzug](#schuldnerverzug)
+    - [Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen](#art-107108109-or-schuldnerverzug-bei-zweiseitigen-verträgen)
+
+5. **Haftung bei Leistungsstörungen**
+  - [Art. 97 OR  Allgemeine Regel bei Nichterfüllung](#art-97-or--allgemeine-regel-bei-nichterfüllung)
+    - [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
+
+
+
+
+
+
 
 ---
 ---
@@ -301,8 +322,6 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
   - **Anfechtbarkeit bei**
     - [Art. 21 OR Übervorteilung](#art-21-or-übervorteilung)
     - [Willensmängel](#anfechtungsgründe-willensmängel)
-
-
 
 
 ---
@@ -712,3 +731,382 @@ Der **Grundlagenirrtum** ist ein **wesentlicher Irrtum**, der einen Irrtum über
 - **Beispiel 2:** C verschweigt gegenüber D einen schweren Wasserschaden in einem Gebäude, obwohl dieser den Kaufpreis stark beeinflussen würde. Auch hier liegt eine absichtliche Täuschung vor.
 
 
+# **Modalitäten der Vertragserfüllung: Person, Ort, Zeit, Gegenstand**
+
+Die Vertragserfüllung regelt, **wie, wo, wann und durch wen** die geschuldete Leistung erbracht wird. Dazu gehören Regelungen zur Person des Schuldners, dem Erfüllungsort, der Zeit der Erfüllung und dem Gegenstand der Leistung.
+
+
+
+## **1. Person der Leistungserbringung**  
+
+### **Keine Pflicht zur persönlichen Leistung (Art. 68. OR)**  
+- Grundsatz: Der Schuldner muss die Leistung **nicht persönlich** erbringen, es sei denn, der Vertrag verlangt ausdrücklich eine persönliche Leistung (z. B. bei Dienstleistungen, künstlerischen Tätigkeiten).  
+- **Beispiel:** Ein Maler kann seinen Mitarbeiter schicken, um ein Haus zu streichen, es sei denn, es wurde vereinbart, dass er persönlich malt.
+- Ausnahmen: Arbeitnhemner, Beauftragter, Werkunternehmer (Art. 321, 398, 364 OR)
+
+### **Pflicht zur Leistung an den Gläubiger**  
+- Der Schuldner muss die Leistung dem **Gläubiger selbst** erbringen, es sei denn, es ist eine andere Person als Leistungsempfänger bestimmt (z. B. durch Vereinbarung oder gesetzliche Regelung).  
+- **Beispiel:** Eine Warenlieferung muss an die im Vertrag genannte Person erfolgen.
+
+
+
+## **2. Erfüllungsort der Leistung (Hol-, Bring- und Versendungsschuld)**
+
+### **Holschul (Grundsatz)** 
+- Art. 74 Abs. 2 Ziff. 2 / 3 OR
+- Der Gläubiger muss die geschuldete Leistung beim Schuldner **abholen**.  
+- Der Schuldner muss nur die Sache bereitstellen.  
+- **Beispiel:** A verkauft B Wein. B muss den Wein im Lager von A abholen.
+
+
+### **Bringschuld**
+- Art. 74 Abs. 2 Ziff. 1 OR
+- Der Schuldner muss die geschuldete Sache dem Gläubiger an dessen Wohn- oder Geschäftssitz **überbringen**.  
+- Der Schuldner trägt die Kosten und das Risiko des Transports.  
+- **Beispiel:** Lieferung eines Möbelstücks direkt zur Wohnung des Gläubigers.
+
+### **Versendungsschuld**
+- Art. 189 Abs. 1 OR
+- Der Schuldner muss die Sache dem Gläubiger **versenden**, jedoch nicht persönlich bringen.  
+- Das Risiko geht bereits mit der Übergabe an das Transportunternehmen auf den Gläubiger über.  
+- **Beispiel:** Bestellung im Onlineshop mit Versand durch einen Paketdienst.
+
+
+
+## **3. Zeit der Leistung (Erfüllbarkeit und Fälligkeit)**
+
+### **Erfüllbarkeit**
+- Art. 81 OR 
+- Der Schuldner darf die Leistung **vor der Fälligkeit** erbringen, wenn keine anderslautende Vereinbarung getroffen wurde. Der Gläubiger muss sie dann annehmen.  
+- **Beispiel:** A darf die Lieferung schon eine Woche vor dem vereinbarten Termin liefern, wenn der Vertrag keine feste spätere Fälligkeit vorschreibt.
+
+### **Fälligkeit** 
+- Art. 75 OR
+- Die geschuldete Leistung ist **sofort fällig**, wenn kein späterer Zeitpunkt vertraglich oder gesetzlich bestimmt ist (Art. 75 OR).  
+- **Arten der Fälligkeit:**  
+  - **Sofortige Fälligkeit:** Die Leistung ist sofort nach Vertragsabschluss zu erbringen.  
+  - **Spätere Fälligkeit:** Die Leistung ist zu einem bestimmten Datum oder Ereignis zu erbringen (z. B. Mietzins am Monatsende).
+
+
+
+## **4. Gegenstand der Leistung (Gattungsschuld und Speziesschuld)**
+
+### **Gattungsschuld**  
+- Der Schuldner schuldet einen Gegenstand, der nur nach allgemeinen Merkmalen (Gattung) bestimmt ist, wie Größe, Menge oder Qualität.  
+- **Beispiel:** A schuldet B 100 kg Zucker (beliebiger Herkunft).
+
+### **Speziesschuld**  
+- Der Schuldner schuldet einen individuell bestimmten Gegenstand.  
+- **Beispiel:** A verkauft B ein bestimmtes Gemälde oder einen Oldtimer mit einer einzigartigen Seriennummer.
+
+---
+---
+# **Art. 97 OR  Allgemeine Regel bei Nichterfüllung**
+
+## **Rechtsnorm**  
+**Art. 97 OR Abs. 1**  
+1. Kann die Erfüllung der Verbindlichkeit überhaupt nicht oder nicht gehörig bewirkt werden, so hat der Schuldner für den daraus entstehenden Schaden Ersatz zu leisten, sofern er nicht beweist, dass ihm keinerlei Verschulden zur Last falle.  
+
+**Art. 97 OR Abs. 2**  
+2. Für die Vollstreckung gelten die Bestimmungen des Bundesgesetzes über Schuldbetreibung und Konkurs sowie der Zivilprozessordnung (ZPO).
+
+
+
+## **Tatbestandselemente von Art. 97 OR**
+
+### **1. Bestehen einer Verbindlichkeit**  
+- Der Schuldner muss zur Erfüllung einer **vertraglichen Leistungspflicht** verpflichtet sein (z. B. Lieferung einer Ware oder Erbringung einer Dienstleistung).
+
+### **2. Nichterfüllung oder Schlechterfüllung**  
+- Die Leistung wird entweder:  
+  - **überhaupt nicht** erbracht (Nichterfüllung), oder  
+  - **nicht vertragsgemäß** erbracht (Schlechterfüllung).  
+- **Beispiel:**  
+  - A liefert B gar keine Ware (Nichterfüllung).  
+  - A liefert eine fehlerhafte Ware (Schlechterfüllung).
+
+### **3. Schaden**  
+- Es muss ein **Schaden** entstehen, der durch die Nichterfüllung oder Schlechterfüllung verursacht wurde.  
+- Der Schaden wird als Differenz zwischen dem hypothetischen Vermögensstand ohne Vertragsverletzung und dem tatsächlichen Vermögensstand berechnet.  
+
+- **Positives Interesse** (Erfüllungsschaden):
+  Berechnung: Der Gläubiger ist so zu stellen, wie wenn der Vertrag korrekt erfüllt worden wäre.
+  - Wert der ausgebliebenen Leistung
+  - Ersatz entgangener Gewinn
+- **Negatives Interesse** (Vertrauensschaden):
+   Berechnung: Der Gläubiger ist so zu stellen, wie wenn der Vertrag nie abgeschlossen worden wäre.
+  - Auslagen und Aufwendungen (im Hinblick auf den Vertrag)
+  - Ersatz des entgangenen Gewinns (nur ausnahmsweise)
+
+### **4. Kausalzusammenhang**  
+- Der Schaden muss **kausal** auf die Nichterfüllung oder Schlechterfüllung zurückzuführen sein. Ohne die Vertragsverletzung wäre der Schaden nicht eingetreten.
+
+### **5. Verschulden des Schuldners (Verschuldenshaftung)**  
+- Der Schuldner haftet nur, wenn ihm ein **Verschulden** (Absicht oder Fahrlässigkeit) zur Last fällt.  
+- Exkulpationsbeweis: Der Schuldner muss beweisen, dass er **kein Verschulden** trägt (Beweislastumkehr).  
+- **Beispiel:**  
+  - Ein Lieferant kann sich entlasten, wenn er beweist, dass die verspätete Lieferung auf ein unvorhersehbares Erdbeben zurückzuführen ist.
+
+
+## **Rechtsfolgen von Art. 97 OR:**  
+- Der Schuldner muss den **Schadenersatz** leisten, um den Gläubiger so zu stellen, als wäre der Vertrag korrekt erfüllt worden (positives Vertragsinteresse).  
+- Zusätzlich gelten die Vorschriften über die **Zwangsvollstreckung** nach Schuldbetreibungs- und Konkursrecht sowie der Zivilprozessordnung (Abs. 2).
+
+
+
+## **Beispiele:**  
+
+- **Beispiel 1 (Nichterfüllung):**  
+  A verpflichtet sich, B eine Maschine zu liefern. Stattdessen wird die Maschine nie geliefert. B erleidet durch die Nichterfüllung einen finanziellen Verlust und kann Schadensersatz verlangen.  
+
+- **Beispiel 2 (Schlechterfüllung):**  
+  A verpflichtet sich, das Dach von B zu reparieren. A führt die Arbeit fehlerhaft aus, und das Dach wird undicht. B kann die Kosten für die Reparatur des Schadens geltend machen.
+
+---
+---
+# **Art. 100 OR Ausschluss der Haftung**
+
+## **Rechtsnorm**  
+**Art. 100 OR**  
+1. Eine zum voraus getroffene Verabredung, wonach die Haftung für **rechtswidrige Absicht** oder **grobe Fahrlässigkeit** ausgeschlossen sein würde, ist **nichtig**.  
+2. Auch ein zum voraus erklärter Verzicht auf Haftung für **leichtes Verschulden** kann nach Ermessen des Richters als **nichtig** betrachtet werden, wenn der Verzichtende zur Zeit seiner Erklärung im **Dienst des anderen Teiles** stand oder wenn die Verantwortlichkeit aus dem Betriebe eines **obrigkeitlich konzessionierten Gewerbes** folgt.  
+3. Vorbehalten bleiben die **besonderen Vorschriften** über den Versicherungsvertrag.
+
+
+
+## **Tatbestandselemente von Art. 100 OR**
+
+### **1. Haftungsausschluss für rechtswidrige Absicht und grobe Fahrlässigkeit (Abs. 1)**  
+- **Grundsatz:** Ein Vertrag, der die Haftung für **Absicht** (Vorsatz) oder **grobe Fahrlässigkeit** im Voraus ausschließt, ist **nichtig**.  
+- Dies bedeutet, dass der Schuldner trotz einer solchen Vereinbarung für vorsätzliches oder grob fahrlässiges Verhalten haftet.  
+- **Beispiel:**  
+  - Ein Veranstalter kann in seinen AGB nicht wirksam ausschließen, dass er bei grob fahrlässiger Missachtung der Sicherheitsvorkehrungen haftet.
+
+
+
+### **2. Haftungsausschluss für leichtes Verschulden (Abs. 2)**  
+- Ein vertraglicher Haftungsausschluss für **leichtes Verschulden** ist grundsätzlich erlaubt, kann jedoch vom Richter als **nichtig** angesehen werden, wenn:  
+  1. Der Geschädigte zur Zeit der Erklärung **im Dienst des anderen** stand.  
+  2. Der Schaden aus einem Betrieb eines **obrigkeitlich konzessionierten Gewerbes** resultiert (z. B. öffentlicher Verkehr, Energieversorgung).  
+- **Beispiel:**  
+  - Ein Busunternehmen darf nicht im Voraus von seiner Haftung befreit werden, wenn es im Rahmen eines bewilligten öffentlichen Transportbetriebs einen Unfall verursacht.  
+
+
+
+### **3. Ausnahme: Versicherungsverträge (Abs. 3)**  
+- Versicherungsverträge haben **eigene gesetzliche Vorschriften** über Haftungsausschlüsse, die hier vorbehalten bleiben (siehe **Versicherungsvertragsgesetz**).  
+- **Beispiel:**  
+  - Ein Versicherungsvertrag regelt spezielle Haftungsausschlüsse, z. B. bei grob fahrlässigem Verhalten des Versicherten.
+
+
+
+## **Rechtsfolgen:**  
+- Ein vertraglicher Ausschluss der Haftung für **rechtswidrige Absicht** oder **grobe Fahrlässigkeit** ist **unwirksam**.  
+- Ein vertraglicher Haftungsausschluss für **leichtes Verschulden** ist nur unter besonderen Umständen **nichtig** und liegt im **Ermessen des Richters**.  
+
+
+
+## **Beispiele:**  
+
+- **Beispiel 1 (grob fahrlässige Handlung):**  
+  A vereinbart mit B, dass er keine Haftung übernimmt, falls er bei grober Fahrlässigkeit einen Schaden verursacht. Diese Vereinbarung ist **nichtig**.  
+
+- **Beispiel 2 (leichtes Verschulden):**  
+  A erklärt, dass er B nicht haftet, wenn er aus Unachtsamkeit einen Schaden verursacht. Der Richter kann den Verzicht als **unwirksam** ansehen, wenn A als Arbeitgeber von B handelt.
+
+# **Art. 119 OR Erlöschen der Forderung bei Unmöglichkeit**
+
+## **Rechtsnorm**  
+**Art. 119 OR**  
+1. Soweit durch Umstände, die der Schuldner **nicht zu verantworten** hat, seine **Leistung unmöglich** geworden ist, gilt die **Forderung als erloschen**.  
+2. Bei **zweiseitigen Verträgen** haftet der nach dieser Regel freigewordene Schuldner für die bereits **empfangene Gegenleistung** aus **ungerechtfertigter Bereicherung** und verliert die noch nicht erfüllte **Gegenforderung**.  
+3. Ausgenommen sind Fälle, in denen die **Gefahr** nach Gesetzesvorschrift oder nach dem **Vertragsinhalt** vor der Erfüllung auf den **Gläubiger** übergeht.
+
+
+
+## **Tatbestandselemente von Art. 119 OR:**
+
+### **1. Vorliegen einer Forderung**  
+- Es muss eine **vertragliche Verpflichtung** bestehen, die erfüllt werden soll.  
+- **Beispiel:** A verkauft B ein Auto. A muss das Auto liefern, und B muss zahlen.
+
+
+
+### **2. Unmöglichkeit der Leistung**  
+- Die geschuldete Leistung ist objektiv **unmöglich** geworden (z. B. Zerstörung des Leistungsgegenstandes).  
+- **Beispiel:**  
+  - Das Auto, das A an B verkaufen wollte, wird vor der Übergabe bei einem Unfall vollständig zerstört. Eine Lieferung des vereinbarten Autos ist unmöglich.
+
+
+
+### **3. Kein Verschulden des Schuldners**  
+- Der Schuldner darf die Unmöglichkeit **nicht zu vertreten** haben.  
+- Die Unmöglichkeit muss durch Umstände eintreten, die außerhalb des Einflussbereichs des Schuldners liegen.  
+- **Beispiel:**  
+  - Ein Erdbeben zerstört ein Haus, das A an B verkaufen wollte. A trifft kein Verschulden.
+
+
+
+### **4. Rechtsfolgen der Unmöglichkeit**  
+
+#### **a) Erlöschen der Forderung**  
+- Die **Verpflichtung des Schuldners** zur Erfüllung des Vertrags erlischt.  
+
+#### **b) Verlust der Gegenforderung**  
+- Der Schuldner verliert bei einem **zweiseitigen Vertrag** seine **Forderung auf die Gegenleistung**.  
+- **Beispiel:** A muss das zerstörte Auto nicht mehr liefern und verliert gleichzeitig den Anspruch auf den Kaufpreis.  
+
+#### **c) Rückerstattung empfangener Leistungen**  
+- Hat der Schuldner bereits eine **Gegenleistung** empfangen, muss er diese aus **ungerechtfertigter Bereicherung** zurückerstatten.  
+- **Beispiel:** Hat B den Kaufpreis schon gezahlt, muss A diesen zurückzahlen.
+
+
+### **5. Ausnahme: Gefahrtragung durch den Gläubiger**  
+- Der Schuldner bleibt von der Haftung befreit, wenn die **Gefahr des Untergangs** der Sache nach Gesetz oder Vertrag auf den Gläubiger übergegangen ist.  
+- **Beispiel:**  
+  - Bei einem Kaufvertrag mit vereinbarter Versendung geht die Gefahr mit Übergabe an den Transporteur auf den Käufer über. Wird die Ware auf dem Transportweg zerstört, trägt der Käufer das Risiko.
+
+#  Nichterfüllung Schlechterfüllung
+  - **Schlechterfüllung**:  Der Schuldner erbringt die Hauptleistung mangelhaft
+  - **Verletzung von Nebenpflichten**: Der Schuldner verletzt eine vertragliche oder gesetzliche Nebenpflicht
+    - Aus Art. 2 ZGB (Treu und Glauben) abgeleitete Nebenpflichten: Aufklärungspflichten, Schutz- und Obhutspflichten
+
+
+# Schuldnerverzug
+
+## Tatbestandselemente
+  - Nichtleistung trotz Leistungsmöglichkeit
+  - Fälligkeit der Forderung
+  - Mahnung des Schuldners oder Verfalltag ([Art. 102 OR  Schuldnerverzug](#art-102-or-schuldnerverzug))
+
+---
+---
+# **Art. 102 OR Schuldnerverzug**
+
+## **Rechtsnorm**  
+**Art. 102 OR**  
+1. Ist eine **Verbindlichkeit fällig**, so wird der Schuldner durch **Mahnung des Gläubigers** in Verzug gesetzt.  
+2. Wurde für die Erfüllung ein **bestimmter Verfalltag** verabredet oder ergibt sich ein solcher infolge einer **vorbehaltenen und gehörig vorgenommenen Kündigung**, so kommt der Schuldner bereits mit **Ablauf dieses Tages** in Verzug.
+
+
+## **Tatbestandselemente von Art. 102 OR:**
+
+### **1. Fälligkeit der Verbindlichkeit**  
+- Die Forderung muss **fällig** sein, d. h. der Zeitpunkt, zu dem der Schuldner seine Leistung zu erbringen hat, ist eingetreten.  
+- Ohne Fälligkeit kann der Schuldner nicht in Verzug geraten.  
+- **Beispiel:**  
+  - Der Mietzins ist jeweils am Monatsende fällig. Am 1. des Folgemonats ist die Zahlungspflicht bereits überfällig.
+
+
+
+### **2. Mahnung des Gläubigers (Abs. 1)**  
+- Der Schuldner kommt grundsätzlich erst durch eine **Mahnung** in Verzug.  
+- Die Mahnung muss:  
+  - vom Gläubiger ausgehen,  
+  - den Schuldner zur sofortigen Leistung auffordern.  
+- **Beispiel:**  
+  - A schuldet B 1'000 CHF und zahlt nicht fristgerecht. Erst wenn B A zur Zahlung auffordert, gerät A in Verzug.
+
+
+### **3. Verfalltag (Abs. 2)**  
+- Wenn ein **bestimmter Erfüllungstermin (Verfalltag)** vereinbart wurde oder sich dieser durch eine Kündigung ergibt, gerät der Schuldner automatisch mit **Ablauf dieses Tages** in Verzug, ohne dass es einer Mahnung bedarf.  
+- **Beispiel:**  
+  - Ein Lieferant verpflichtet sich, eine Ware bis zum 31. März zu liefern. Erfolgt keine Lieferung bis zu diesem Tag, gerät der Lieferant ohne Mahnung in Verzug.
+
+
+
+## **Rechtsfolgen des Verzugs nach Art. 102 OR:**  
+1. **Ersatz des Verspätungsschadens:**  
+   - Der Schuldner muss den Schaden ersetzen, der durch den Verzug entsteht (Art. 103 OR).  
+2. **Verzugszinsen:**  
+   - Der Schuldner muss Verzugszinsen zahlen (Art. 104 OR).  
+3. **Haftung für Zufall (Art 103 OR):**  
+   - Grundsatz: Wenn der Schuldner nicht in Verzug ist, haftet er nicht für zufällige Ereignisse. Gerät der Schuldner aber in Verzug, haftet er auch für Zufall.
+
+
+## **Beispiele für Schuldnerverzug:**  
+- **Beispiel 1:**  
+  A hat sich verpflichtet, B eine Ware bis zum 15. Mai zu liefern. Nach dem 15. Mai gerät A automatisch in Verzug, ohne dass B eine Mahnung schicken muss.  
+- **Beispiel 2:**  
+  A schuldet B 500 CHF und zahlt nicht fristgerecht. Erst nachdem B ihn zur Zahlung auffordert, gerät A in Verzug.
+
+
+# **Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen**
+
+## **Art. 107 OR Nachfrist und Wahlrechte des Gläubigers**  
+
+### **Rechtsnorm**  
+1. Wenn sich ein Schuldner bei **zweiseitigen Verträgen** im Verzug befindet, ist der Gläubiger berechtigt, ihm eine **angemessene Frist** zur **nachträglichen Erfüllung** anzusetzen oder durch die zuständige Behörde ansetzen zu lassen.  
+2. Wird auch bis zum Ablauf dieser Frist nicht erfüllt, so kann der Gläubiger:  
+   - auf **Erfüllung** nebst **Schadenersatz wegen Verspätung** klagen oder  
+   - auf die nachträgliche Leistung **verzichten** und entweder:  
+     - **Schadenersatz wegen Nichterfüllung** verlangen oder  
+     - vom Vertrag **zurücktreten**.
+
+
+## **Tatbestandselemente von Art. 107 OR:**
+
+### **1. Schuldnerverzug bei einem zweiseitigen Vertrag**  
+- Es muss ein **zweiseitiger Vertrag** vorliegen (z. B. Kaufvertrag, Werkvertrag).  
+- Der Schuldner ist im **Verzug**, weil er nicht fristgerecht erfüllt.
+
+### **2. Ansetzung einer angemessenen Nachfrist**  
+- Der Gläubiger muss dem Schuldner eine **Nachfrist** setzen. Diese muss dem Schuldner eine realistische Möglichkeit bieten, seine Leistung zu erbringen.
+
+### **3. Wahlrecht des Gläubigers nach Fristablauf**  
+- Nach Ablauf der Nachfrist kann der Gläubiger wählen zwischen:  
+  1. **Erfüllung und Schadenersatz wegen Verspätung**
+  2. **Verzicht auf die nachträgliche Leistung** und entweder:  
+     - Schadenersatz wegen Nichterfüllung [Art. 109 OR Rechtsfolgen des Rücktritts](#art-109-or-rechtsfolgen-des-rücktritts)
+     - Rücktritt vom Vertrag
+
+
+## **Art. 108 OR Fälle ohne Nachfristsetzung**
+
+### **Rechtsnorm**  
+Die **Ansetzung einer Frist** zur nachträglichen Erfüllung ist nicht erforderlich:  
+1. Wenn aus dem Verhalten des Schuldners hervorgeht, dass sie **unnütz** wäre (z. B. Schuldner verweigert die Erfüllung ausdrücklich).  
+2. Wenn infolge des Verzugs des Schuldners die Leistung für den Gläubiger **nutzlos** geworden ist.  
+3. Wenn aus dem Vertrag hervorgeht, dass die Leistung genau zu einer bestimmten Zeit oder bis zu einem bestimmten Zeitpunkt erfolgen soll (**Fixgeschäft**).
+
+
+## **Tatbestandselemente von Art. 108 OR:**  
+
+### **1. Unnütze Fristsetzung**  
+- Wenn der Schuldner z. B. ausdrücklich erklärt, dass er nicht leisten wird, ist eine Nachfrist überflüssig.  
+
+### **2. Nutzlosigkeit der Leistung**  
+- Die Leistung ist für den Gläubiger nach dem vereinbarten Termin wertlos (z. B. verspätete Lieferung eines Brautkleides nach der Hochzeit).  
+
+### **3. Fixgeschäft**  
+- Bei **Fixgeschäften** (z. B. Lieferung einer Hochzeitstorte am Tag der Feier) ist die Leistung nur bis zu einem bestimmten Zeitpunkt sinnvoll.
+
+
+## **Art. 109 OR Rechtsfolgen des Rücktritts**
+
+### **Rechtsnorm**  
+1. Wer vom Vertrag **zurücktritt**, kann die **Gegenleistung** verweigern und das **Geleistete zurückfordern**.  
+2. Zudem hat der Gläubiger Anspruch auf **Ersatz des Schadens**, der aus dem Rücktritt entstanden ist, sofern der Schuldner nicht nachweist, dass ihn **kein Verschulden** trifft gemaess [Art. 97](#art-97-or-allgemeine-regel-bei-nichterfüllung).
+
+
+## **Tatbestandselemente von Art. 109 OR:**  
+
+### **1. Rücktritt vom Vertrag**  
+- Der Gläubiger erklärt den **Rücktritt**, weil der Schuldner nach Fristablauf oder aufgrund eines Fixgeschäfts nicht rechtzeitig erfüllt hat.  
+
+### **2. Rückforderung des Geleisteten**  
+- Der Gläubiger kann das, was er bereits geleistet hat (z. B. eine Vorauszahlung), zurückfordern.  
+
+### **3. Anspruch auf Schadenersatz**  
+- Der Gläubiger kann Schadenersatz für den Rücktrittsschaden verlangen (z. B. Mehrkosten durch eine Ersatzbeschaffung), sofern der Schuldner nicht beweist, dass ihn **kein Verschulden** trifft.
+
+
+## **Beispiele:**
+
+1. **Verzug ohne Nachfristsetzung (Art. 108 OR):**  
+   - A bestellt bei B eine Hochzeitstorte, die am Hochzeitstag geliefert werden soll. B liefert die Torte einen Tag zu spät.  
+   - **Ergebnis:** A kann direkt vom Vertrag zurücktreten und Schadenersatz verlangen, ohne eine Nachfrist zu setzen (Fixgeschäft).
+
+2. **Rücktritt und Rückforderung des Geleisteten (Art. 109 OR):**  
+   - A kauft von B ein Sofa und leistet eine Vorauszahlung. B liefert das Sofa nicht rechtzeitig, und A tritt vom Vertrag zurück.  
+   - **Ergebnis:** A kann die Vorauszahlung zurückverlangen und Schadenersatz fordern (z. B. für die Kosten eines Ersatzsofas).
