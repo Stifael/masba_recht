@@ -47,7 +47,7 @@ Rechtfertigungsgründe können sein:
 
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
-- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden.
+- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
 - **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
 
 - **Gründe für Auschluss**
