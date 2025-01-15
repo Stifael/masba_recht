@@ -3,11 +3,11 @@
 1.  **Allgemeine Verschuldenshaftung**
     - a. [Art. 41 OR Haftung für unerlaubte Handlung](#art-41-or-haftung-für-unerlaubte-handlung)
     - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
-2. **Geschäftsherrenhaftung**
-    - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
       - [Schadensberechnung](#schadensberechnung)
       - [Schadensersatzbemessung](#schadensersatzbemessung)
       - [Genugtuung](#genugtuung-immaterielle-unbill)
+2. **Geschäftsherrenhaftung**
+    - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
 3. **Werkeigentümerhaftung**
     - a. [Art. 58 OR Haftung des Werkeigentümers](#art-58-or-haftung-des-werkeigentümers)
 
