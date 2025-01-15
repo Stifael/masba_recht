@@ -360,6 +360,9 @@ Die Übergabe ist vollzogen, sobald sich der Empfänger mit Willen des bisherige
 ## Rechtsfrage
 Hat A gegen B einen Anspruch aufdie Herausgabe des X gestützt auf OR 641 Abs. 2.?
 
+## Grundsatz
+Die Eigentumsherausgabeklage richtet sich gegen den jeweiligen (unmittelbaren oder mittelbaren) Besitzer der Sache, also diejenige Person, welche die tatsächliche Gewalt über die Sache hat (Art. 919 Abs. 1 ZGB). 
+
 ## **Tatbestände von Art. 641 ZGB**
 
 ### **1. Verfügungsrecht des Eigentümers (Abs. 1)**  
