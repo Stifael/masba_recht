@@ -109,17 +109,22 @@ B hat gegen A gestützt auf Art. 41 Abs. 1 OR einen Schadenersatzanspruch im Umf
 
 
 ## **Genugtuung**: Immaterielle Unbill
-Bemessung durch Richter
-  - Körperlische Schmerzen
-  - Seelisches Leid
-  - Beeinträchtigung des Lebensgenusses (langer Spitalaufenthalt)
-  - Verminderung der Lebensfreude
+
+- **Immaterielle Unbill**: Die Genugtuung setzt immaterielle Unbill voraus. Diese kann etwa in der Form von körperlichen bzw. seelischen Schmerzen, entgangenem Lebengenuss oder in einer Beeinträchtigung des sozialen Ansehens bestehen.
 
 - **Tötung und Körperverletzung**: [Art. 47 OR](#art-47-or-genugtuung-bei-tötung-oder-körperverletzung)
   - Angehörige haben gemäss Art. 47 OR Anspruch auf Genugtuung bei Tötung
 - **Schwere Persönlichkeitsverletzung**: [Art. 49 OR](#art-49-or-genugtuung-bei-persönlichkeitsverletzung)
   - Angehörige könnten Anspruch auf Genugtuung haben bei Körpervelertzung
+ 
+- **Bemessung durch Richter**: grosser Spielraum
+  - Körperlische Schmerzen
+  - Seelisches Leid
+  - Beeinträchtigung des Lebensgenusses (langer Spitalaufenthalt)
+  - Verminderung der Lebensfreude
 
+### Rechtsfolge 
+Die E haben gegen M gestützt auf Art. 47 OR i.V.m. Art. 41 Abs. 1 OR einen Genugtuungsanspruch im vollen Umfang.
 
 ---
 ---
