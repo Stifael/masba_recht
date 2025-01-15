@@ -357,7 +357,8 @@ Die Übergabe ist vollzogen, sobald sich der Empfänger mit Willen des bisherige
 1. Wer Eigentümer einer Sache ist, kann in den Schranken der Rechtsordnung über sie nach seinem Belieben verfügen.  
 2. Er hat das Recht, sie von jedem, der sie ihm vorenthält, herauszuverlangen und jede ungerechtfertigte Einwirkung abzuwehren.
 
-
+## Rechtsfrage
+Hat A gegen B einen Anspruch aufdie Herausgabe des X gestützt auf OR 641 Abs. 2.?
 
 ## **Tatbestände von Art. 641 ZGB**
 
