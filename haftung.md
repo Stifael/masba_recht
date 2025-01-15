@@ -50,7 +50,9 @@ Die Handlung muss ursächlich für den Schaden sein:
 - **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
 - **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
 
-- **Gründe für Auschluss**
+- **Unterbrechungsgründe**: Eine mögliche Unterbrechung des Kausalzusammenhangs setzt voraus, dass eine zusätz
+lich konkurrierende Schadensursache eine derart hohe Intensität aufweist, dass das an 
+sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich erscheint. 
   - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
   - **Grobes** Selbstverschulden
   - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
