@@ -5,6 +5,9 @@
     - b. [Schadenersatz + Genugtuung](#schadenersatz-und-genugtuung)
 2. **Geschäftsherrenhaftung**
     - a. [Art. 55 OR Haftung des Geschäftsherrn](#art-55-or-haftung-des-geschäftsherrn)
+      - [Schadensberechnung](#schadensberechnung)
+      - [Schadensersatzbemessung](#schadensersatzbemessung)
+      - [Genugtuung](#genugtuung-immaterielle-unbill)
 3. **Werkeigentümerhaftung**
     - a. [Art. 58 OR Haftung des Werkeigentümers](#art-58-or-haftung-des-werkeigentümers)
 
@@ -33,9 +36,7 @@ Aktiven, einer Vermehrung der Passiven oder in entgangenem Gewinn bestehen kann.
 
 
 ### **2. Widerrechtlichkeit**
-Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der geschädig
-ten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm 
-verletzt wird.
+Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der geschädigten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm verletzt wird.
 
 1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit, psychischen Integrität 
 2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
@@ -513,8 +514,9 @@ Ein Schaden ist eine unfreiwillige Vermögensverminderung. Diese kann sein:
 
 
 ### **2. Widerrechtlichkeit**
-Eine Schadenszufügung ist widerrechtlich, wenn sie gegen eine allgemeine gesetzliche Pflicht verstößt. Dies geschieht auf zwei Arten:
-1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit.
+Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der geschädigten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm verletzt wird.
+
+1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit, psychischen Integrität 
 2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
 
 Rechtfertigungsgründe können sein:
@@ -523,14 +525,19 @@ Rechtfertigungsgründe können sein:
 
 
 
+
+
 ### **3. Kausalzusammenhang**
 Die Handlung muss ursächlich für den Schaden sein:
-- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden.
-- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung geeignet, einen solchen Schaden herbeizuführen. 
-  - Auschluss:
-    - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
-    - Grobes Selbstverschulden
-    - Grobes Drittverschulden (Arzt operiert und dient als Drittperson)
+- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
+
+- **Unterbrechungsgründe**: Eine mögliche Unterbrechung des Kausalzusammenhangs setzt voraus, dass eine zusätz
+lich konkurrierende Schadensursache eine derart hohe Intensität aufweist, dass das an 
+sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich erscheint. 
+  - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
+  - **Grobes** Selbstverschulden
+  - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
   
 
 
@@ -580,9 +587,17 @@ Die Handlung muss ursächlich für den Schaden sein:
 - **Beispiel:** Ein Hausdach, eine Mauer, ein Treppenaufgang.
 - **Antibeispiel**: Autos, Fahrzeuge sind keine Werke
 
+### **3. Widerrechtlichkeit**
+Widerrechtlich ist eine Schädigung dann, wenn sie in ein absolutes Recht der geschädigten Person eingreift oder – bei reinen Vermögensschäden – eine einschlägige Schutznorm verletzt wird.
 
+1. **Eingriff in ein absolutes Recht**: Beeinträchtigung von Rechtsgütern wie Leben, Gesundheit, Eigentum oder Persönlichkeit, psychischen Integrität 
+2. **Reine Vermögensschädigung**: Wenn der Schaden durch einen Verstoss gegen eine **einschlägige Schutznorm**   entsteht, welche selbst keine endgültige Haftung bestimmt.
 
-### **3. Werkmangel**
+Rechtfertigungsgründe können sein:
+- **Einwilligung des Geschädigten.**
+- **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
+
+### **4. Werkmangel**
 Ein Werkmangel liegt vor, wenn das Werk für den Gebrauch, zu dem es bestimmt ist, keine genügende Sicherheit bietet.
 - Der Schaden muss auf:  
   - **fehlerhafte Anlage** (z. B. Konstruktionsfehler),  
@@ -591,13 +606,23 @@ Ein Werkmangel liegt vor, wenn das Werk für den Gebrauch, zu dem es bestimmt is
 - **Beispiel:** Eine Treppe wird nicht ordnungsgemäß repariert, und ein Besucher stürzt aufgrund einer losen Stufe.
 
 
-### **4. Kausalzusammenhang**
+### **5. Kausalzusammenhang**
 - Der Schaden muss auf die fehlerhafte Anlage, Herstellung oder mangelhafte Instandhaltung zurückzuführen sein (natürlicher und adäquater Kausalzusammenhang).  
-- **Beispiel:** Der Ziegel fällt, weil das Dach nicht gewartet wurde.
+
+Die Handlung muss ursächlich für den Schaden sein:
+- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
+
+- **Unterbrechungsgründe**: Eine mögliche Unterbrechung des Kausalzusammenhangs setzt voraus, dass eine zusätz
+lich konkurrierende Schadensursache eine derart hohe Intensität aufweist, dass das an 
+sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich erscheint. 
+  - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
+  - **Grobes** Selbstverschulden
+  - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
 
 
 
-### **5. Eigentümerschaft des Werks**
+### **6. Eigentümerschaft des Werks**
 - Der **Eigentümer** des Werks haftet, unabhängig davon, ob er selbst Verschulden trägt.  
 - **Hinweis:** Es handelt sich um eine sogenannte **Kausalhaftung**.
     - Werkeigentümer kann auch eine juristische Person oder Personenmehrheit (Mit- oder Gesamteigentümer) sein.
