@@ -45,20 +45,7 @@ Rechtfertigungsgründe können sein:
 - **Notwehr oder Notstand.**:  [Art. 52](#art-52-or-haftung-bei-notwehr-notstand-und-selbsthilfe)
 
 
-### **3. Kausalzusammenhang**
-Die Handlung muss ursächlich für den Schaden sein:
-- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
-- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
-
-- **Unterbrechungsgründe**: Eine mögliche Unterbrechung des Kausalzusammenhangs setzt voraus, dass eine zusätz
-lich konkurrierende Schadensursache eine derart hohe Intensität aufweist, dass das an 
-sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich erscheint. 
-  - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
-  - **Grobes** Selbstverschulden
-  - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
-  
-
-### **4. Verschulden**
+### **3. Verschulden**
 Das Verschulden umfasst objektive und subjektive seite:
 #### Objektiv (Tat zählt)
 - **Absicht**: Bewusstes und gewolltes Herbeiführen des Schadens.
@@ -70,6 +57,18 @@ Das Verschulden umfasst objektive und subjektive seite:
 - **Urteilsfähigkeit**: Die Urteilsfähigkeit ist die Fähigkeit, vernunftgemäss mit Einsicht und Wille zu handeln. Sie wird gemäss [Art. 16 ZGB](#art-16-zgb-urteilsfähigkeit) vermutet. 
   - **mangelnde Urteilsfähigkeit**: Kindesalter, psychische Krankheit, geistige Behinderung, Rausch und ähnliche Zustände
     - Ausnahme [Art. 54 OR](#art-54-or-haftung-urteilsunfähiger-personen)
+   
+### **4. Kausalzusammenhang**
+Die Handlung muss ursächlich für den Schaden sein:
+- **Natürlicher Kausalzusammenhang**: Die Handlung war eine notwendige Bedingung für den Schaden. Dies Kann auch eine Unterlassung von Sicherheitsmassnahmen sein.
+- **Adäquater Kausalzusammenhang**: Die Handlung war nach allgemeiner Lebenserfahrung und nach gewöhnlichem Lauf der Dinge geeignet, einen solchen Schaden herbeizuführen. Der Schaden muss objektiv vorhersehbar gewesen sein. „Schockschäden Dritter“ kann, muss aber nicht zwingend, so adequatem Kausalzusammenhang führen. 
+
+- **Unterbrechungsgründe**: Eine mögliche Unterbrechung des Kausalzusammenhangs setzt voraus, dass eine zusätz
+lich konkurrierende Schadensursache eine derart hohe Intensität aufweist, dass das an 
+sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich erscheint. 
+  - Höhere Gewalt: aussergewöhnlich, unvorhersehbar, unabwendbar
+  - **Grobes** Selbstverschulden
+  - **Grobes** Drittverschulden (Arzt operiert und dient als Drittperson)
 
 
 ## **Besonderheit: Absatz 2 – Sittenwidrigkeit**
