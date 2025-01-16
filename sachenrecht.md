@@ -1,28 +1,17 @@
 # Table Of Content
 
-1. **Besitz**
-    - a. [Art. 919 ZGB Begriff des Besitzes](#art-919-zgb-begriff-des-besitzes)
-    - b. [Art. 920 ZGB Selbständiger und unselbständiger Besitz](#art-920-zgb-selbständiger-und-unselbständiger-besitz)
-2. **Besitzerschutz**
-    - a. [Art. 926 ZGB Abwehrrecht](#art-926-zgb-selbsthilfe-des-besitzers)
-    - b. [Art. 927 ZGB Besitzesentziehung](#art-927-zgb-rückgabepflicht-bei-verbotener-eigenmacht)
-    - c. [Art. 928 ZGB Besitzesstörung](#art-928-zgb-klage-wegen-besitzstörung)
 
-3. **Derivativer Besitzerwerb**
-    - a. [Tradition Art. 922 Abs. 1 ZGB Tradition](#art-922-abs-1-zgb-übertragung-des-besitzes)
-    - b. **Besitzerwerb ohne Sachübergabe (Traditionssurrogate)**
-        - I. [Art. 922 Abs. 2 ZGB  Übergabe von langer Hand](#art-922-abs-2-zgb-vollzug-der-besitzübertragung)
-        - II. [Art. 922 Abs. 2 ZGB  Übergabe von kurzer Hand](#art-922-abs-2-zgb-vollzug-der-besitzübertragung)
-        - III. [Art. 924 Ohne Übergabe Besitzkonstitut](#art-924-zgb-besitzübertragung-ohne-übergabe)
-        - IV. [Art. 924 Ohne Übergabe Besitzansweisung](#art-924-zgb-besitzübertragung-ohne-übergabe)
 
-4. **Eigentum**
+
+1. **Eigentum**
     - a. [Art. 930 Vermutung des Eigentums](#art-930-zgb-eigentumsvermutung)
     - b. [Art. 641 Herausgabeklage + Eigentumsfreiheitsklage](#art-641-zgb-befugnisse-des-eigentümers)
     - c. **Eigentumserwerb von Fahrnis**
         - I. [Art. 714 Abs. 1 ZGB Rechtsgeschäftlicher Eigentumserwerb](#art-714-zgb-abs-1-eigentumsübertragung-durch-besitzübergabe)
         - II. [Gutgläubiger Eigentumserwerb vom Nichtberechtigten](#gutgläubiger-eigentumserwerb-vom-nichtberechtigten)
-        - III. [Kein (direkter) Eigentumserwerb bei gestohlenen Sachen](#art-934-zgb-rückforderungsrecht-bei-abhandengekommenen-sachen)
+          - [Art. 714 ZGB Abs. 2 Gutgläubiger Erwerb einer beweglichen Sache](#art-714-zgb-abs-2-gutgläubiger-erwerb-einer-beweglichen-sache)
+          - [Art. 933 ZGB Gutgläubiger Erwerb anvertrauter Sachen](#art-933-zgb-gutgläubiger-erwerb-anvertrauter-sachen)
+        - III. [Art. 934 Rückgabeforderungsrecht bei abhandegekommenden Sachen](#art-934-zgb-rückforderungsrecht-bei-abhandengekommenen-sachen)
 
     - d. **Eigentumserwerb unter Eigentumsvorbehalt**
         - I. [Art. 715 ZGB Eigentumsvorbehalt](#art-715-zgb-eigentumsvorbehalt)
@@ -30,11 +19,27 @@
 
     - e. [Dereliktion (Eigentumsaufgabe)](#dereliktion-eigentumsaufgabe)
 
-  
-5. **Guter Glaube**
+2. **Besitz**
+    - a. [Art. 919 ZGB Begriff des Besitzes](#art-919-zgb-begriff-des-besitzes)
+    - b. [Art. 920 ZGB Selbständiger und unselbständiger Besitz](#art-920-zgb-selbständiger-und-unselbständiger-besitz)
+    - c. **Derivativer Besitzerwerb**
+      - I. [Tradition Art. 922 Abs. 1 ZGB Tradition](#art-922-abs-1-zgb-übertragung-des-besitzes)
+      - II. **Besitzerwerb ohne Sachübergabe (Traditionssurrogate)**
+          - [Art. 922 Abs. 2 ZGB  Übergabe von langer Hand](#art-922-abs-2-zgb-vollzug-der-besitzübertragung)
+          - [Art. 922 Abs. 2 ZGB  Übergabe von kurzer Hand](#art-922-abs-2-zgb-vollzug-der-besitzübertragung)
+          - [Art. 924 Ohne Übergabe Besitzkonstitut](#art-924-zgb-besitzübertragung-ohne-übergabe)
+          - [Art. 924 Ohne Übergabe Besitzansweisung](#art-924-zgb-besitzübertragung-ohne-übergabe)
+
+3. **Eigentümer / Besitzschutz**
+    - a. [Art. 926 ZGB Selbshilfe des Besitzes](#art-926-zgb-selbsthilfe-des-besitzers)
+    - b. [Art. 927 ZGB Rückgabepflicht bei verbotener Eigenmacht](#art-927-zgb-rückgabepflicht-bei-verbotener-eigenmacht)
+    - c. [Art. 928 ZGB Besitzesstörung](#art-928-zgb-klage-wegen-besitzstörung)
+
+
+4. **Guter Glaube**
     - [Art. 3 ZGB](#art-3-zgb-guter-glaube)
 
-6. **Pfandrecht**
+5. **Pfandrecht**
     - **Prinzipien**
         - I. [Akzessorietätsprinzip](#akzessorietätsprinzip)
         - II. [Verbot der Verfallklausel](#verbot-der-verfallklausel)
@@ -43,10 +48,10 @@
         - II. [Art. 891 Abs. 1 ZGB Verwertungsrecht](#art-891-abs-1-zgb-verwertungsrecht-des-pfandgläubigers)
         - III. [Art. 889 Abs. 2 ZGB Zurückbehaltungsrecht](#art-889-zgb-herausgabepflicht-des-pfandgläubigers) 
 
-7. **Publizitätsprinzip und Faustpfandprinzip**
+6. **Publizitätsprinzip und Faustpfandprinzip**
     - [Publizitätsprinzip und Faustpfandprinzip](#faustpfandprinzip-und-publizitätsprinzip-im-sachenrecht)
 
-8. **Retentionsrecht**
+7. **Retentionsrecht**
     - a. [Art. 895 ZGB Retentionsrecht](#art-895-zgb-retentionsrecht)
     - b. [Art. 898 ZGB Verwertung des Retentionsobjekts](#art-898-zgb-verwertung-des-retentionsobjekts)
 
@@ -358,7 +363,7 @@ Die Übergabe ist vollzogen, sobald sich der Empfänger mit Willen des bisherige
 2. Er hat das Recht, sie von jedem, der sie ihm vorenthält, herauszuverlangen und jede ungerechtfertigte Einwirkung abzuwehren.
 
 ## Rechtsfrage
-Hat A gegen B einen Anspruch aufdie Herausgabe des X gestützt auf OR 641 Abs. 2.?
+Hat A gegen B einen Anspruch auf die Herausgabe des X gestützt auf OR 641 Abs. 2.?
 
 ## Grundsatz
 Die Eigentumsherausgabeklage richtet sich gegen den jeweiligen (unmittelbaren oder mittelbaren) Besitzer der Sache, also diejenige Person, welche die tatsächliche Gewalt über die Sache hat (Art. 919 Abs. 1 ZGB). 
@@ -467,7 +472,7 @@ Wer eine bewegliche Sache in gutem Glauben zu Eigentum oder zu einem beschränkt
 
 ## **Rechtsnorm**  
 **Art. 934 ZGB**  
-1. Der Besitzer, dem eine bewegliche Sache gestohlen wird oder verloren geht oder sonst wider seinen Willen abhanden kommt, kann sie während fünf Jahren jedem Empfänger abfordern. Vorbehalten bleibt Artikel 722.  
+1. Der Besitzer, dem eine bewegliche Sache gestohlen wird oder verloren geht oder sonst wider seinen Willen abhanden kommt, kann sie während fünf Jahren jedem Empfänger abfordern. Vorbehalten bleibt Artikel 722.
 1bis. Das Rückforderungsrecht für Kulturgüter im Sinne von Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, die gegen den Willen des Eigentümers abhanden gekommen sind, verjährt ein Jahr, nachdem der Eigentümer Kenntnis erlangt hat, wo und bei wem sich das Kulturgut befindet, spätestens jedoch 30 Jahre nach dem Abhandenkommen.  
 2. Ist die Sache öffentlich versteigert oder auf dem Markt oder durch einen Kaufmann, der mit Waren der gleichen Art handelt, übertragen worden, so kann sie dem ersten und jedem späteren gutgläubigen Empfänger nur gegen Vergütung des von ihm bezahlten Preises abgefordert werden.  
 3. Die Rückleistung erfolgt im Übrigen nach den Vorschriften über die Ansprüche des gutgläubigen Besitzers.
