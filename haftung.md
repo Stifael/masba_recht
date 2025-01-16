@@ -493,7 +493,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 1. Der Geschäftsherr haftet für den Schaden, den seine Arbeitnehmer oder andere Hilfspersonen in Ausübung ihrer dienstlichen oder geschäftlichen Verrichtungen verursacht haben, wenn er nicht nachweist, dass er alle nach den Umständen gebotene Sorgfalt angewendet hat, um einen Schaden dieser Art zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre.  
 2. Der Geschäftsherr kann auf denjenigen, der den Schaden gestiftet hat, insoweit Rückgriff nehmen, als dieser selbst schadenersatzpflichtig ist.
 
-## Rechtsfrage
+## **Rechtsfrage**
 Hat M gegen H einen Schadenersatzanspruch aus Art. 55 Abs. 1 OR (Geschäftsherrenhaftung)? 
 
 ## **Definition: Hilfsperson**
@@ -579,6 +579,9 @@ sich adäquatkausale Schadensereignis als rechtlich nicht mehr beachtlich ersche
 **Art. 58 OR**  
 1. Der Eigentümer eines Gebäudes oder eines anderen Werkes hat den Schaden zu ersetzen, den diese infolge von fehlerhafter Anlage oder Herstellung oder von mangelhafter Instandhaltung verursachen.  
 2. Vorbehalten bleibt ihm der Rückgriff auf andere, die ihm hierfür verantwortlich sind.
+
+## **Rechtsfrage**
+Hat M gegen H einen Schadenersatzanspruch aus Art. 58 Abs. 1 OR (Werkeigentümerhaftung)? 
 
 ## **Tatbestände von Art. 58 OR**
 
