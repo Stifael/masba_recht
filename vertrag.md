@@ -4,7 +4,7 @@
     -  [Art. 1 Abs. 1 OR Zustandekommen Vertrag](#art-1-or-zustandekommen-eines-vertrages)
         - I. [Art 18 OR Abs 1 Natürlicher Konsens](#art-18-or-auslegung-von-verträgen-und-simulation)
         - II. [Normativer Konsens](#normativer-konsens-vertrauensprinzip)
-        - III. [Art 2 Abs 1 OR Objektive-Subjektive Vertragspunkte](#art-2-or-vereinbarung-über-nebenpunkte)
+        - III. [Art 2 Abs 1 OR Vereinbarung über Nebenpunkte](#art-2-or-vereinbarung-über-nebenpunkte)
 
 2. **Vertragsschluss Antrag und Annahme**
     - a. [Art. 7 OR Abs 1 Antrag ohne Verbindlichkeit](#art-7-or-antrag-ohne-verbindlichkeit)
@@ -14,25 +14,34 @@
 
 3. **Vertragsmängel**
     - a. [Üngültigkeitsgründe](#ungültigkeitsgründe)
-    - b. [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
+      - I. **Nichtigkeit bei**
+        - [Fehlende Handlungsfähigkeit](#fehlende-handlungsfähigkeit)
+        - [Formmängel](#nichtigkeitsgründe-formmangel)
+        - [Inhaltsmängel](#nichtigkeitsgründe-inhaltsmangel)
+          - [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
+          - [Art. 20 Abs. 1 OR Unmöglichkeit-Sitten](#art-20-or--nichtigkeit-von-verträgen)
+          - [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
+      - II. **Anfechtbarkeit bei**
+        - [Art. 21 OR Übervorteilung](#art-21-or-übervorteilung)
+        - [Willensmängel](#anfechtungsgründe-willensmängel)
+          - [Art. 24 OR Wesentlicher Irrtum](#art-24-or-wesentlicher-irrtum)
+            - [Nicht wesentliche Irrtum](#nicht-wesentliche-irrtümer)
+          - [Art. 28 OR Täuschung](#art-28-or-absichtliche-täuschung)
+          - [Art. 29 OR Drohung](#art-29-or-drohung-furchterregung)
 
 4. **Vertragserfuellung**
     - [Modalitäten](#modalitäten-der-vertragserfüllung-person-ort-zeit-gegenstand)
 
-5. **Nichterferfüllung** 
-    - [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
-    - [Schuldnerverzug](#schuldnerverzug)
+5. **Nichterferfüllung**
+  - a. [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
+    - I. [Art. 97 OR  Allgemeine Regel bei Nichterfüllung](#art-97-or-allgemeine-regel-bei-nichterfüllung)
+    - II. [Schuldnerverzug](#schuldnerverzug)
+      - [Art. 102 OR  Schuldnerverzug](#art-102-or-schuldnerverzug)
       - [Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen](#art-107108109-or-schuldnerverzug-bei-zweiseitigen-verträgen)
-
-5. **Haftung bei Leistungsstörungen**
-    - [Art. 97 OR  Allgemeine Regel bei Nichterfüllung](#art-97-or--allgemeine-regel-bei-nichterfüllung)
-      - [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
-
-
-
-
-
-
+        - [Art. 107 OR Nachfrist und Wahlrechte des Gläubigers](#art-107-or-nachfrist-und-wahlrechte-des-gläubigers)
+        - [Art. 108 OR Fälle ohne Nachfristsetzung](#art-108-or-fälle-ohne-nachfristsetzung)
+        - [Art. 109 OR Rechtsfolgen des Rücktritt](#art-109-or-rechtsfolgen-des-rücktritts)
+  - b. [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
 
 ---
 ---
@@ -247,7 +256,8 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - **Beispiel:**  
   - Ein Weinhändler erhält ein Angebot zur Lieferung einer großen Bestellung und lehnt es nicht ab. Nach Ablauf einer angemessenen Frist darf der Anbieter davon ausgehen, dass der Händler das Angebot annimmt.
 
-
+---
+---
 # **Art. 29 OR Drohung (Furchterregung)**
 
 ## **Rechtsnorm**  
@@ -255,7 +265,6 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 1. Ist ein Vertragschliessender von dem anderen oder von einem Dritten **widerrechtlich durch Erregung gegründeter Furcht** zur Eingehung eines Vertrages bestimmt worden, so ist der Vertrag für den Bedrohten **unverbindlich**.  
 2. Ist die **Drohung** von einem Dritten ausgegangen, so hat, wo es der Billigkeit entspricht, der Bedrohte, der den Vertrag nicht halten will, dem anderen, wenn dieser die Drohung **weder gekannt hat noch hätte kennen sollen**, **Entschädigung** zu leisten.
 
----
 
 ## **Tatbestandselemente von Art. 29 OR Drohung**
 
@@ -269,7 +278,6 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
   - gegen Treu und Glauben verstößt,  
   - den Bedrohten unverhältnismäßig in die Enge treibt.  
 
----
 
 ### **2. Begründete Furcht (subjektiv und objektiv)**  
 - Die Drohung muss beim Bedrohten eine **Furcht vor erheblichem Nachteil** auslösen.  
@@ -278,14 +286,12 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - **Beispiel:**  
   - A droht B damit, dessen Familie zu schädigen, wenn B den Vertrag nicht unterzeichnet. Eine solche Drohung erzeugt verständlicherweise Furcht.
 
----
 
 ### **3. Kausalität zwischen Drohung und Vertragsschluss**  
 - Der Bedrohte muss den Vertrag **nur deshalb** abgeschlossen haben, weil er sich durch die Drohung dazu genötigt fühlte.  
 - **Beispiel:**  
   - B unterschreibt nur, weil er Angst vor der angedrohten Rufschädigung hat. Ohne diese Drohung hätte er nicht zugestimmt.
 
----
 
 ### **4. Drohung durch Dritte (Abs. 2)**  
 - Die Drohung kann auch von einer **dritten Person** ausgehen.  
@@ -295,7 +301,6 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - **Beispiel:**  
   - C (ein Dritter) droht B, damit B einen Vertrag mit A abschließt. Wenn A nichts von der Drohung wusste, bleibt der Vertrag zwar unverbindlich, aber A kann unter Umständen eine Entschädigung verlangen.
 
----
 
 ## **Rechtsfolgen:**  
 1. **Anfechtbarkeit des Vertrags:**  
@@ -305,11 +310,53 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 3. **Verjährung:**  
    - Die Anfechtung muss innerhalb **eines Jahres** ab Kenntnis der Drohung erfolgen.
 
----
 
 ## **Beispiele für Drohung:**  
 - **Beispiel 1:** A droht B mit einer Anzeige, wenn B den Vertrag nicht unterschreibt, obwohl B nichts Verbotenes getan hat. B kann den Vertrag anfechten.  
 - **Beispiel 2:** Ein Dritter droht C, damit C einen Vertrag mit A abschließt. Wenn A nichts davon wusste, kann C den Vertrag anfechten, muss aber A unter Umständen entschädigen.
+
+---
+---
+# Art. 13 ZGB Vorasussetzung Handlungsfähigkeit
+Die Handlungsfähigkeit besitzt, wer volljährig und urteilsfähig ist.
+  - [Art. 14 Volljährigkeit](#art-14-zgb-volljährigkeit)
+  - [Art. 16 ZGB Urteilsfähigkeit](#art-16-zgb-urteilsfähigkeit)
+
+---
+---
+# Art. 14 ZGB Volljährigkeit
+Volljährig ist, wer das 18. Lebensjahr zurückgelegt hat.
+
+---
+---
+# Art. 16 ZGB Urteilsfähigkeit
+
+## **Rechtsnorm**
+**Art. 16 ZGB**  
+Urteilsfähig im Sinne dieses Gesetzes ist jede Person, der nicht wegen ihres Kindesalters, infolge geistiger Behinderung, psychischer Störung, Rausch oder ähnlicher Zustände die Fähigkeit mangelt, vernunftgemäß zu handeln.
+
+
+## **Tatbestände von Art. 16 ZGB**
+
+### **1. Grundsatz**
+- Eine Person ist urteilsfähig, wenn sie in der Lage ist, vernunftgemäß zu handeln.
+
+
+
+### **2. Gründe für Urteilsunfähigkeit**
+Urteilsunfähigkeit liegt vor, wenn eine der folgenden Ursachen dazu führt, dass die Fähigkeit zu vernunftgemäßem Handeln fehlt:
+1. **Kindesalter**: Mangelnde Entwicklung der geistigen Fähigkeiten aufgrund des Alters.
+2. **Geistige Behinderung**: Angeborene oder erworbene Beeinträchtigung der geistigen Fähigkeiten.
+3. **Psychische Störung**: Vorübergehende oder dauerhafte Beeinträchtigung durch psychische Erkrankungen.
+4. **Rausch oder ähnliche Zustände**: Vorübergehende Beeinträchtigung durch Alkohol, Drogen oder ähnliche Einflüsse.
+
+---
+---
+# Fehlende Handlungsfähigkeit
+Handlungfähigkeit ist durch folgende Artikel abgedeckt:
+- [Art. 13 Handlungsfähigkeit](#art-13-zgb-vorasussetzung-handlungsfähigkeit)
+
+
 
 
 ---
@@ -330,6 +377,8 @@ Ist wegen der besonderen Natur des Geschäftes oder nach den Umständen eine aus
 - Unmöglichkeit, Wiederrechtlichkeit, Sittenwiedrigkeit
 - [Art. 19 Abs. 2 OR Wiederrechtlichkeit](#art-19-or-vertragsfreiheit-und-schranken)
 - [Art. 20 Abs. 1 OR Unmöglichkeit-Sitten](#art-20-or--nichtigkeit-von-verträgen)
+- [Art. 100 OR Ausschluss der Haftung](#art-100-or-ausschluss-der-haftung)
+
 
 
 ---
@@ -801,7 +850,7 @@ Die Vertragserfüllung regelt, **wie, wo, wann und durch wen** die geschuldete L
 
 ---
 ---
-# **Art. 97 OR  Allgemeine Regel bei Nichterfüllung**
+# **Art. 97 OR Allgemeine Regel bei Nichterfüllung**
 
 ## **Rechtsnorm**  
 **Art. 97 OR Abs. 1**  
@@ -966,12 +1015,15 @@ Die Vertragserfüllung regelt, **wie, wo, wann und durch wen** die geschuldete L
 - **Beispiel:**  
   - Bei einem Kaufvertrag mit vereinbarter Versendung geht die Gefahr mit Übergabe an den Transporteur auf den Käufer über. Wird die Ware auf dem Transportweg zerstört, trägt der Käufer das Risiko.
 
+---
+---
 #  Nichterfüllung Schlechterfüllung
   - **Schlechterfüllung**:  Der Schuldner erbringt die Hauptleistung mangelhaft
   - **Verletzung von Nebenpflichten**: Der Schuldner verletzt eine vertragliche oder gesetzliche Nebenpflicht
     - Aus Art. 2 ZGB (Treu und Glauben) abgeleitete Nebenpflichten: Aufklärungspflichten, Schutz- und Obhutspflichten
 
-
+---
+---
 # Schuldnerverzug
 
 ## Tatbestandselemente
@@ -1030,7 +1082,8 @@ Die Vertragserfüllung regelt, **wie, wo, wann und durch wen** die geschuldete L
 - **Beispiel 2:**  
   A schuldet B 500 CHF und zahlt nicht fristgerecht. Erst nachdem B ihn zur Zahlung auffordert, gerät A in Verzug.
 
-
+---
+---
 # **Art. 107,108,109 OR Schuldnerverzug bei zweiseitigen Verträgen**
 
 ## **Art. 107 OR Nachfrist und Wahlrechte des Gläubigers**  
