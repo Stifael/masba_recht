@@ -31,6 +31,10 @@
 
 4. **Vertragserfuellung**
     - [Modalitäten](#modalitäten-der-vertragserfüllung-person-ort-zeit-gegenstand)
+      - [Wer überbringt Leistung](#1-person-der-leistungserbringung)
+      - [Wo wird die Leistung vollzogen](#2-erfüllungsort-der-leistung-hol--bring--und-versendungsschuld)
+      - [Wann wird die Leistung erfüllt](#3-zeit-der-leistung-erfüllbarkeit-und-fälligkeit)
+      - [Was wird geleistet](#4-gegenstand-der-leistung-gattungsschuld-und-speziesschuld)
 
 5. **Nichterferfüllung**
   - a. [Nichterfüllung / Schlechterfüllung](#nichterfüllung-schlechterfüllung)
@@ -41,7 +45,7 @@
         - [Art. 107 OR Nachfrist und Wahlrechte des Gläubigers](#art-107-or-nachfrist-und-wahlrechte-des-gläubigers)
         - [Art. 108 OR Fälle ohne Nachfristsetzung](#art-108-or-fälle-ohne-nachfristsetzung)
         - [Art. 109 OR Rechtsfolgen des Rücktritt](#art-109-or-rechtsfolgen-des-rücktritts)
-  - b. [Art. 119 OR Erlöschen de Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
+  - b. [Art. 119 OR Erlöschen der Forderung](#art-119-or-erlöschen-der-forderung-bei-unmöglichkeit)
 
 ---
 ---
